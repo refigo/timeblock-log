@@ -1,0 +1,12 @@
+{
+  "session_id": "2026-08-13-2359-5EDsro9pz5M",
+  "broadcast_id": "5EDsro9pz5M",
+  "url": "https://www.youtube.com/watch?v=5EDsro9pz5M",
+  "declared": "timeblock-verify 작업 (화면 합성 씬 / 판정 개선)",
+  "seed": 2180644092,
+  "frames": 15,
+  "threshold": 0.7,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint": "c77c6a59dd17240b",
+  "started_at": "2026-08-13T23:59:20+09:00"
+}
