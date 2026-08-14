@@ -1,0 +1,132 @@
+{
+  "session_id": "2026-08-14-2249-dtQMNltHez4",
+  "verified_at": "2026-08-14T22:49:55+09:00",
+  "daystamp": "2026-08-14",
+  "verified_minutes": 23.0,
+  "broadcast_id": "dtQMNltHez4",
+  "duration": 1381,
+  "title": "20260814-worklog",
+  "seed": 529811504,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint_at_start": "1924eb53f9bfe7f0",
+  "code_fingerprint_at_verify": "1924eb53f9bfe7f0",
+  "timestamps": [
+    67,
+    205,
+    236,
+    306,
+    440,
+    524,
+    613,
+    709,
+    790,
+    882,
+    975,
+    1058,
+    1122,
+    1172,
+    1276
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person is visible on the right side, with face and hand in view.",
+      "at": "1:07"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "A person is visible on the right side, showing face and upper body.",
+      "at": "3:25"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "A person is visible on the right side, with face, arm, and upper body in frame.",
+      "at": "3:56"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "A person is visible on the right side, showing face and upper body.",
+      "at": "5:06"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "A person is visible on the right side, with face and upper body in frame.",
+      "at": "7:20"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "A person is visible on the right side, showing face and upper body.",
+      "at": "8:44"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "A person is visible on the right side, with face and hand in frame.",
+      "at": "10:13"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "A person is visible on the right side, showing face and hand.",
+      "at": "11:49"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "A person is visible in the bottom-right camera inset, with face and upper body.",
+      "at": "13:10"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "A person is visible in the bottom-right camera inset, with face and hand in frame.",
+      "at": "14:42"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "A person is visible in the bottom-right camera inset, showing face and upper body.",
+      "at": "16:15"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "A person is visible in the bottom-right camera inset, showing face and upper body.",
+      "at": "17:38"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "A person is visible in the bottom-right camera inset, showing face and upper body.",
+      "at": "18:42"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "A person is visible in the bottom-right camera inset, showing face and upper body.",
+      "at": "19:32"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "A person is visible in the bottom-right camera inset, with face and hand in frame.",
+      "at": "21:16"
+    }
+  ],
+  "summary": "The person is present in every sampled frame."
+}
