@@ -1,132 +1,132 @@
 {
   "session_id": "2026-08-13-2359-5EDsro9pz5M",
-  "verified_at": "2026-08-14T00:00:47+09:00",
+  "verified_at": "2026-08-14T22:36:58+09:00",
   "daystamp": "2026-08-13",
-  "verified_minutes": 0.0,
+  "verified_minutes": 21.5,
   "broadcast_id": "5EDsro9pz5M",
-  "duration": 1284,
+  "duration": 1290,
   "title": "20260813-worklog",
   "seed": 2180644092,
   "model": "gpt-5.4-mini",
   "code_fingerprint_at_start": "c77c6a59dd17240b",
-  "code_fingerprint_at_verify": "c77c6a59dd17240b",
+  "code_fingerprint_at_verify": "1924eb53f9bfe7f0",
   "timestamps": [
     52,
     166,
-    262,
-    343,
-    374,
-    495,
-    539,
-    667,
-    704,
-    829,
-    851,
-    925,
-    1059,
-    1118,
-    1187
+    263,
+    344,
+    375,
+    498,
+    542,
+    670,
+    707,
+    833,
+    855,
+    929,
+    1064,
+    1124,
+    1193
   ],
   "counts": {
-    "present": 0,
+    "present": 15,
     "absent": 0,
-    "ambiguous": 15
+    "ambiguous": 0
   },
-  "presence_ratio": null,
+  "presence_ratio": 1.0,
   "threshold": 0.7,
-  "tier": "T1",
-  "passed": false,
+  "tier": "T2",
+  "passed": true,
   "frames": [
     {
       "index": 0,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
+      "verdict": "present",
+      "why": "The left side of a person's face and head are visible in the frame.",
       "at": "0:52"
     },
     {
       "index": 1,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
+      "verdict": "present",
+      "why": "A person's head and ear are visible on the left side of the frame.",
       "at": "2:46"
     },
     {
       "index": 2,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "4:22"
+      "verdict": "present",
+      "why": "The person's head and part of their face are visible.",
+      "at": "4:23"
     },
     {
       "index": 3,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "5:43"
+      "verdict": "present",
+      "why": "The top and side of the person's head are visible, along with part of their face.",
+      "at": "5:44"
     },
     {
       "index": 4,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "6:14"
+      "verdict": "present",
+      "why": "The person's head and profile are visible at the lower left.",
+      "at": "6:15"
     },
     {
       "index": 5,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "8:15"
+      "verdict": "present",
+      "why": "A person's head and side profile are visible in the frame.",
+      "at": "8:18"
     },
     {
       "index": 6,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "8:59"
+      "verdict": "present",
+      "why": "The person's head and upper face are visible at the lower left.",
+      "at": "9:02"
     },
     {
       "index": 7,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "11:07"
+      "verdict": "present",
+      "why": "The person's head and ear are visible on the left side.",
+      "at": "11:10"
     },
     {
       "index": 8,
-      "verdict": "ambiguous",
-      "why": "Only part of the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "11:44"
+      "verdict": "present",
+      "why": "Part of the person's face and hair are visible in the lower left.",
+      "at": "11:47"
     },
     {
       "index": 9,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "13:49"
+      "verdict": "present",
+      "why": "The person's head and side of the face are visible near the lower left.",
+      "at": "13:53"
     },
     {
       "index": 10,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "14:11"
+      "verdict": "present",
+      "why": "The person's face and head are visible from the side.",
+      "at": "14:15"
     },
     {
       "index": 11,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "15:25"
+      "verdict": "present",
+      "why": "A person's face and head are visible in profile on the left.",
+      "at": "15:29"
     },
     {
       "index": 12,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "17:39"
+      "verdict": "present",
+      "why": "The person's face and hair are visible at the lower left edge.",
+      "at": "17:44"
     },
     {
       "index": 13,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "18:38"
+      "verdict": "present",
+      "why": "The person's head and part of their face are visible at the bottom left.",
+      "at": "18:44"
     },
     {
       "index": 14,
-      "verdict": "ambiguous",
-      "why": "Only the person's face and a wall are visible; no hands or work surface appear.",
-      "at": "19:47"
+      "verdict": "present",
+      "why": "The person's face and head are visible on the left side of the frame.",
+      "at": "19:53"
     }
   ],
-  "summary": "All frames are ambiguous because they show only the person's face and background, without hands or any visible work surface."
+  "summary": "All sampled frames show the person at least partially in view, so the session is consistently attended in the shot."
 }
