@@ -1,0 +1,137 @@
+{
+  "session_id": "2026-08-16-0021-d1tYhNJ3oOA",
+  "verified_at": "2026-08-16T08:46:53+09:00",
+  "daystamp": "2026-08-15",
+  "verified_minutes": 24.5,
+  "presence_minutes": 24.5,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-08-15T23:59",
+  "broadcast_id": "d1tYhNJ3oOA",
+  "duration": 1472,
+  "title": "20260815-worklog",
+  "seed": 780677485,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint_at_start": "fb92653f966870d0",
+  "code_fingerprint_at_verify": "0ada9dfeb519fe76",
+  "timestamps": [
+    104,
+    162,
+    254,
+    365,
+    482,
+    556,
+    689,
+    741,
+    813,
+    900,
+    1054,
+    1073,
+    1206,
+    1252,
+    1400
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person is clearly visible, seated and facing the camera.",
+      "at": "1:44"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "The same person is visible from the chest up, facing forward.",
+      "at": "2:42"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "The person is visible with one hand raised to their hair.",
+      "at": "4:14"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "A person is visible seated in the chair, facing the camera.",
+      "at": "6:05"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "The person’s face and upper body are visible in the frame.",
+      "at": "8:02"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "A person is clearly visible, leaning slightly with face in view.",
+      "at": "9:16"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "The person is visible from the shoulders up, seated in the chair.",
+      "at": "11:29"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "A person is visible in the shot, facing toward the camera.",
+      "at": "12:21"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "The person’s face and upper torso are clearly visible.",
+      "at": "13:33"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "A person is visible, seated with their face in frame.",
+      "at": "15:00"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "The person remains visible in the center-right of the frame.",
+      "at": "17:34"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "A person is clearly visible, seated and facing forward.",
+      "at": "17:53"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "The person is very close to the camera, with face and hair visible.",
+      "at": "20:06"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "A person is visible leaning forward, with face in frame.",
+      "at": "20:52"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "The person’s head and upper face are visible in the shot.",
+      "at": "23:20"
+    }
+  ],
+  "summary": "All sampled frames show the person present in the shot."
+}
