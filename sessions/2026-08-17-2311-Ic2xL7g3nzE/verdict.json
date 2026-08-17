@@ -1,0 +1,140 @@
+{
+  "session_id": "2026-08-17-2311-Ic2xL7g3nzE",
+  "verified_at": "2026-08-18T00:01:50+09:00",
+  "daystamp": "2026-08-17",
+  "verified_minutes": 96.9,
+  "presence_minutes": 96.9,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-08-17T19:15",
+  "broadcast_id": "Ic2xL7g3nzE",
+  "claim_start": 10761,
+  "claim_end": 16577,
+  "frames_outside_claim": 9,
+  "duration": 16577,
+  "title": "20260817-worklog",
+  "seed": 668274887,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint_at_start": "0ada9dfeb519fe76",
+  "code_fingerprint_at_verify": "8c1dc79444a39cbe",
+  "timestamps": [
+    1111,
+    2217,
+    3496,
+    3787,
+    5175,
+    6072,
+    7322,
+    8727,
+    9676,
+    10761,
+    10929,
+    12114,
+    13392,
+    14936,
+    15488
+  ],
+  "counts": {
+    "present": 6,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "absent",
+      "why": "Only a blurred screen of text is visible; no person appears in the frame.",
+      "at": "18:31"
+    },
+    {
+      "index": 1,
+      "verdict": "absent",
+      "why": "Only a blurred screen of text is visible; no person appears in the frame.",
+      "at": "36:57"
+    },
+    {
+      "index": 2,
+      "verdict": "absent",
+      "why": "Only a blurred screen with highlighted text is visible; no person appears in the frame.",
+      "at": "58:16"
+    },
+    {
+      "index": 3,
+      "verdict": "absent",
+      "why": "Only a blurred screen of text is visible; no person appears in the frame.",
+      "at": "1:03:07"
+    },
+    {
+      "index": 4,
+      "verdict": "absent",
+      "why": "A dark webpage with comments is shown; no person is visible.",
+      "at": "1:26:15"
+    },
+    {
+      "index": 5,
+      "verdict": "absent",
+      "why": "Only computer windows and text are visible; no person appears in the frame.",
+      "at": "1:41:12"
+    },
+    {
+      "index": 6,
+      "verdict": "absent",
+      "why": "A document and a small chat window are visible; no person is in the shot.",
+      "at": "2:02:02"
+    },
+    {
+      "index": 7,
+      "verdict": "absent",
+      "why": "Only a text page is visible; no person appears in the frame.",
+      "at": "2:25:27"
+    },
+    {
+      "index": 8,
+      "verdict": "absent",
+      "why": "Only a blurred text editor-like view is visible; no person appears in the frame.",
+      "at": "2:41:16"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "A man’s face and hand are visible in a circular camera overlay at the lower right.",
+      "at": "2:59:21"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "A man’s face is visible in a circular camera overlay at the lower right.",
+      "at": "3:02:09"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "A man’s face is visible in a circular camera overlay at the lower right.",
+      "at": "3:21:54"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "A man’s face is visible in a circular camera overlay at the lower right.",
+      "at": "3:43:12"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "A man’s face and hand are visible in a circular camera overlay at the lower right.",
+      "at": "4:08:56"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "A man’s face is visible in a circular camera overlay at the lower right.",
+      "at": "4:18:08"
+    }
+  ],
+  "summary": "Most early frames show only screens with no person visible. Frames 9 through 14 clearly show the person in the lower-right camera overlay, so those are present."
+}
