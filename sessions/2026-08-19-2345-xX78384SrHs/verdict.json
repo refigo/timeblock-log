@@ -1,0 +1,140 @@
+{
+  "session_id": "2026-08-19-2345-xX78384SrHs",
+  "verified_at": "2026-08-20T00:39:04+09:00",
+  "daystamp": "2026-08-19",
+  "verified_minutes": 23.1,
+  "presence_minutes": 23.1,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-08-19T23:23",
+  "broadcast_id": "xX78384SrHs",
+  "claim_start": 0,
+  "claim_end": 1386,
+  "frames_outside_claim": 0,
+  "duration": 1386,
+  "title": "20260819-english",
+  "seed": 1222190476,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint_at_start": "8c1dc79444a39cbe",
+  "code_fingerprint_at_verify": "4964ce403948b245",
+  "timestamps": [
+    62,
+    140,
+    247,
+    304,
+    467,
+    521,
+    643,
+    671,
+    798,
+    883,
+    924,
+    1056,
+    1159,
+    1242,
+    1273
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person is visible from the head and shoulders, seated in front of the shelves.",
+      "at": "1:02"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "The person's face, hair, and upper body are visible.",
+      "at": "2:20"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "The person's face and hand are visible in the shot.",
+      "at": "4:07"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "The person's face and hand are visible.",
+      "at": "5:04"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "The person's face and upper body are visible.",
+      "at": "7:47"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "The person's face and upper body are visible.",
+      "at": "8:41"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "The person's face and hand are visible.",
+      "at": "10:43"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "The person's face and hand are visible.",
+      "at": "11:11"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "The person's face and upper body are visible.",
+      "at": "13:18"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "The person's face and upper body are visible.",
+      "at": "14:43"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "The person's face and upper body are visible.",
+      "at": "15:24"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "The person's face and hand are visible.",
+      "at": "17:36"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "The person's face and hand are visible.",
+      "at": "19:19"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "The person's face and hand are visible.",
+      "at": "20:42"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "The person's face and upper body are visible.",
+      "at": "21:13"
+    }
+  ],
+  "summary": "All 15 frames clearly show the person in the shot."
+}
