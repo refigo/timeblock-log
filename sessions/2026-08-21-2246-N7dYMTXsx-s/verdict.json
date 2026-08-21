@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-08-21-2246-N7dYMTXsx-s",
+  "verified_at": "2026-08-21T23:11:39+09:00",
+  "daystamp": "2026-08-21",
+  "verified_minutes": 126.0,
+  "presence_minutes": 126.0,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-08-21T20:34",
+  "broadcast_id": "N7dYMTXsx-s",
+  "claim_start": 0,
+  "claim_end": 7563,
+  "frames_outside_claim": 0,
+  "duration": 7563,
+  "title": "20260821-worklog",
+  "seed": 3641842103,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "4964ce403948b245",
+  "code_fingerprint_at_verify": "5b1352f160476c98",
+  "timestamps": [
+    510,
+    733,
+    1232,
+    1706,
+    2524,
+    2642,
+    3148,
+    3995,
+    4334,
+    4762,
+    5372,
+    5533,
+    6256,
+    6465,
+    7279
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person with dark hair, hand raised near their chin, is visible in the webcam inset at the lower right of the frame.",
+      "at": "8:30"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "A person's head and shoulders in a beige jacket appear in the webcam inset at the lower right.",
+      "at": "12:13"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "A person's face and shoulder in a light jacket are visible in the webcam inset at the lower right.",
+      "at": "20:32"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "A person is visible in the lower-right webcam inset, head tilted downward, face and collar readable.",
+      "at": "28:26"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "A person with a hand near their face, wearing a watch, is visible in the webcam inset at the lower right.",
+      "at": "42:04"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "A person's face and shoulders fill the webcam inset at the lower right.",
+      "at": "44:02"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "A person's head and upper body appear in the webcam inset at the lower right, face toward the camera.",
+      "at": "52:28"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Full-frame webcam view of a person resting their head on a fist, facing the camera, in a room with ceiling lights behind them.",
+      "at": "1:06:35"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Full-frame view of a person's head and shoulders, face toward the camera, ceiling lights and blinds behind them.",
+      "at": "1:12:14"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "A person's face and shoulders fill most of the frame, seated in front of a lit ceiling and window blinds.",
+      "at": "1:19:22"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Close full-frame view of a person's face and jacket, eyes open toward the camera.",
+      "at": "1:29:32"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "A person's face and shoulders fill the frame, mouth open as if speaking.",
+      "at": "1:32:13"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "A person with head bowed is visible in the webcam inset at the lower right of the frame.",
+      "at": "1:44:16"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "A person's face and shoulders are visible in the webcam inset at the lower right.",
+      "at": "1:47:45"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Full-frame view of a person's head and shoulders facing the camera, ceiling lights and a jacket on a chair behind them.",
+      "at": "2:01:19"
+    }
+  ],
+  "summary": "All 15 frames show the person in shot — sometimes as a small webcam inset over a shared screen, sometimes filling the frame at close range. No frame was unreadable and none showed an empty shot."
+}
