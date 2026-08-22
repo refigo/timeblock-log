@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-08-22-2358-K697GGaIaRA",
+  "verified_at": "2026-08-23T00:00:52+09:00",
+  "daystamp": "2026-08-22",
+  "verified_minutes": 22.5,
+  "presence_minutes": 22.5,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-08-22T23:33",
+  "broadcast_id": "K697GGaIaRA",
+  "claim_start": 0,
+  "claim_end": 1351,
+  "frames_outside_claim": 0,
+  "duration": 1351,
+  "title": "20260822-livework",
+  "seed": 3131033946,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "5b1352f160476c98",
+  "code_fingerprint_at_verify": "5b1352f160476c98",
+  "timestamps": [
+    123,
+    182,
+    235,
+    377,
+    452,
+    498,
+    591,
+    690,
+    763,
+    819,
+    961,
+    974,
+    1118,
+    1154,
+    1308
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person in a black cap and dark shirt fills the right half of the frame, face turned slightly up, with a bookshelf behind them.",
+      "at": "2:03"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same person in a black cap and dark shirt, head and shoulders clearly visible against the shelf of books.",
+      "at": "3:02"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Person in a black cap seated in frame, face and upper body visible, shelving and books behind.",
+      "at": "3:55"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "A screen-share view with a small camera inset in the lower right corner; a person's capped head and shoulder are visible in that inset.",
+      "at": "6:17"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Camera inset at the lower right shows a person in a cap, face in profile, seated in front of the shelf.",
+      "at": "7:32"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "The inset in the lower right corner clearly shows a person's face and shoulders under a black cap.",
+      "at": "8:18"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "A person in a black cap is visible in the small camera inset at the lower right of the frame.",
+      "at": "9:51"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "The lower-right camera inset shows a capped head and shoulders, face turned slightly upward.",
+      "at": "11:30"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Person in a cap visible in the corner inset, head tilted up, shoulders in shot.",
+      "at": "12:43"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "The corner inset shows a person in a black cap, face and upper chest in frame.",
+      "at": "13:39"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "A capped person's head and shoulders occupy the lower-right camera inset.",
+      "at": "16:01"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Inset shows a person in a cap with a hand raised toward their face; head and shoulders clearly in frame.",
+      "at": "16:14"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "The inset shows a person facing the camera straight on, black cap and dark shirt, whole face visible.",
+      "at": "18:38"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Person facing the camera in the corner inset, face fully visible under a black cap.",
+      "at": "19:14"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Corner inset shows a person in a black cap looking slightly up and to the side, head and shoulder in frame.",
+      "at": "21:48"
+    }
+  ],
+  "summary": "All 15 frames show the person in shot — the first three as a close head-and-shoulders view, the rest as a small camera inset in the lower-right corner of a shared screen. Framing and posture vary, but a recognizable face or head is visible in every frame, with no gaps and nothing unreadable."
+}
