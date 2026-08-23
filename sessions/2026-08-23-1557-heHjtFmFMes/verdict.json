@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-08-23-1557-heHjtFmFMes",
+  "verified_at": "2026-08-23T15:59:13+09:00",
+  "daystamp": "2026-08-23",
+  "verified_minutes": 61.3,
+  "presence_minutes": 61.3,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-08-23T14:55",
+  "broadcast_id": "heHjtFmFMes",
+  "claim_start": 0,
+  "claim_end": 3676,
+  "frames_outside_claim": 0,
+  "duration": 3676,
+  "title": "20260823-livework",
+  "seed": 3033784767,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "5b1352f160476c98",
+  "code_fingerprint_at_verify": "5b1352f160476c98",
+  "timestamps": [
+    333,
+    480,
+    669,
+    893,
+    1102,
+    1286,
+    1720,
+    1912,
+    2082,
+    2233,
+    2576,
+    2746,
+    2927,
+    3169,
+    3407
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Webcam inset in the lower right shows a person's head and shoulder, face angled down with a hand near the mouth.",
+      "at": "5:33"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Person's face and shoulders fill the webcam inset, looking toward the camera side.",
+      "at": "8:00"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Head and shoulder visible in the inset, hand raised near the chin.",
+      "at": "11:09"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and upper body clearly visible in the webcam inset.",
+      "at": "14:53"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Head, shoulder and a hand near the face visible in the inset.",
+      "at": "18:22"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Person's head tilted down with hands near the mouth, visible in the inset.",
+      "at": "21:26"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face and shoulders visible in the webcam inset, head turned slightly down.",
+      "at": "28:40"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Head and shoulders visible in the inset, face angled downward.",
+      "at": "31:52"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Face and shoulder visible in the inset with a hand held near the chin.",
+      "at": "34:42"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Head and shoulder visible in the inset, hand near the face.",
+      "at": "37:13"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Person's head, shoulder and arm visible in the webcam inset, hand up near the face.",
+      "at": "42:56"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Face and shoulders clearly visible in the inset, gaze angled down.",
+      "at": "45:46"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Head and shoulders visible in the inset, face turned downward.",
+      "at": "48:47"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Face and shoulders visible in the webcam inset, head tilted down.",
+      "at": "52:49"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Person's face and shoulders visible in the inset at lower right, looking toward the camera.",
+      "at": "56:47"
+    }
+  ],
+  "summary": "All 15 frames show a person in the webcam inset — head, face, shoulders, and at times hands. No absent or unreadable frames; attendance is consistent across the full session."
+}
