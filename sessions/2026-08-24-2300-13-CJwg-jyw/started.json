@@ -1,0 +1,13 @@
+{
+  "session_id": "2026-08-24-2300-13-CJwg-jyw",
+  "broadcast_id": "13-CJwg-jyw",
+  "url": "https://www.youtube.com/watch?v=13-CJwg-jyw",
+  "declared": null,
+  "seed": 4074050738,
+  "frames": 15,
+  "threshold": 0.7,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint": "5b1352f160476c98",
+  "started_at": "2026-08-24T23:00:51+09:00",
+  "window": null
+}
