@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-08-24-2300-13-CJwg-jyw",
+  "verified_at": "2026-08-24T23:02:23+09:00",
+  "daystamp": "2026-08-24",
+  "verified_minutes": 35.1,
+  "presence_minutes": 35.1,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-08-24T22:24",
+  "broadcast_id": "13-CJwg-jyw",
+  "claim_start": 0,
+  "claim_end": 2109,
+  "frames_outside_claim": 0,
+  "duration": 2109,
+  "title": "20260824-livework",
+  "seed": 4074050738,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "5b1352f160476c98",
+  "code_fingerprint_at_verify": "5b1352f160476c98",
+  "timestamps": [
+    89,
+    199,
+    338,
+    522,
+    603,
+    817,
+    944,
+    1001,
+    1199,
+    1258,
+    1440,
+    1641,
+    1727,
+    1896,
+    2007
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person's head, shoulders and torso fill the center of the frame, facing the camera, in front of a white shelf.",
+      "at": "1:29"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same person's face and shoulders centered in frame, looking slightly down toward the camera.",
+      "at": "3:19"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Face and shoulders visible, with one hand raised to the mouth in frame.",
+      "at": "5:38"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Head and shoulders visible, eyes open, gaze angled downward.",
+      "at": "8:42"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Head and upper body visible, seated with a chair back behind them.",
+      "at": "10:03"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "A small inset window at bottom right shows a person's head and shoulders.",
+      "at": "13:37"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Person's face and shoulders visible in the inset camera window at bottom right.",
+      "at": "15:44"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Head and shoulders of a person visible in the bottom-right inset, eyes lowered.",
+      "at": "16:41"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Person's head and shoulders visible in the inset window at bottom right.",
+      "at": "19:59"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Face and shoulders clearly visible in the bottom-right inset.",
+      "at": "20:58"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Person's head and upper body visible in the bottom-right inset.",
+      "at": "24:00"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Head and shoulders visible in the inset, head tilted slightly down.",
+      "at": "27:21"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Person visible in the inset with a hand raised near the face.",
+      "at": "28:47"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Head and shoulders visible in the inset, face turned partly downward.",
+      "at": "31:36"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Head and side of face visible in the bottom-right inset, leaning toward one side.",
+      "at": "33:27"
+    }
+  ],
+  "summary": "All 15 frames show a person in the shot. The first five are a full webcam view of head and torso in front of a shelf; the remaining ten switch to a shared-screen layout with the camera reduced to a small inset at bottom right, where the person's head and shoulders remain visible throughout. No absent or unreadable frames."
+}
