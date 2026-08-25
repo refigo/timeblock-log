@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-08-25-2321-MhCmdRRBCBU",
+  "verified_at": "2026-08-25T23:24:05+09:00",
+  "daystamp": "2026-08-25",
+  "verified_minutes": 25.2,
+  "presence_minutes": 25.2,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-08-25T22:55",
+  "broadcast_id": "MhCmdRRBCBU",
+  "claim_start": 0,
+  "claim_end": 1512,
+  "frames_outside_claim": 0,
+  "duration": 1512,
+  "title": "20260825-livework",
+  "seed": 3554179242,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "5b1352f160476c98",
+  "code_fingerprint_at_verify": "5b1352f160476c98",
+  "timestamps": [
+    121,
+    173,
+    289,
+    407,
+    508,
+    602,
+    660,
+    776,
+    857,
+    900,
+    995,
+    1118,
+    1264,
+    1318,
+    1451
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person's head, face and shoulders in a dark t-shirt fill the center of the frame, in front of a white shelving unit and ceiling.",
+      "at": "2:01"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same person visible head-on, face and upper torso in frame, eyes lowered.",
+      "at": "2:53"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Person visible at left of center with one raised hand near their head; face and shoulders clearly in shot.",
+      "at": "4:49"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and shoulders in the middle of the frame, head tilted slightly down.",
+      "at": "6:47"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Head, face and dark-shirted shoulders clearly in frame against the pale wall and shelf.",
+      "at": "8:28"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Person's face and upper body centered in frame, head angled downward.",
+      "at": "10:02"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face and shoulders visible, filling the middle of the shot.",
+      "at": "11:00"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Person's head and shoulders plainly in frame, gaze downward.",
+      "at": "12:56"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Face and torso in a dark shirt visible in the center of the frame.",
+      "at": "14:17"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Head and shoulders in frame, face turned slightly down.",
+      "at": "15:00"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Person's face and shoulders visible slightly right of center.",
+      "at": "16:35"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Person close to the camera with a hand raised to the side of their head; face and shoulder in frame.",
+      "at": "18:38"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Large close view of the person's head and shoulder in the right half of the frame.",
+      "at": "21:04"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Face and shoulders fill the right-center of the frame, head lowered.",
+      "at": "21:58"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Person's head and shoulder visible close to camera, eyes turned to the side.",
+      "at": "24:11"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person in the shot — head, face and shoulders visible throughout, sometimes closer to the camera or with a hand raised. No absent or unreadable frames."
+}
