@@ -1,0 +1,13 @@
+{
+  "session_id": "2026-08-25-2321-MhCmdRRBCBU",
+  "broadcast_id": "MhCmdRRBCBU",
+  "url": "https://www.youtube.com/watch?v=MhCmdRRBCBU",
+  "declared": null,
+  "seed": 3554179242,
+  "frames": 15,
+  "threshold": 0.7,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint": "5b1352f160476c98",
+  "started_at": "2026-08-25T23:21:48+09:00",
+  "window": null
+}
