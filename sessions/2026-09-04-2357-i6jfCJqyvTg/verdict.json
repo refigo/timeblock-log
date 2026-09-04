@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-04-2357-i6jfCJqyvTg",
+  "verified_at": "2026-09-04T23:58:20+09:00",
+  "daystamp": "2026-09-04",
+  "verified_minutes": 21.0,
+  "presence_minutes": 21.0,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-04T23:34",
+  "broadcast_id": "i6jfCJqyvTg",
+  "claim_start": 0,
+  "claim_end": 1260,
+  "frames_outside_claim": 0,
+  "duration": 1260,
+  "title": "20260904-livework",
+  "seed": 1860327615,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    99,
+    165,
+    227,
+    292,
+    388,
+    505,
+    529,
+    660,
+    698,
+    775,
+    878,
+    978,
+    1024,
+    1124,
+    1148
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Man's head, shoulders, and black t-shirt fill the center of the frame in front of a white shelving unit.",
+      "at": "1:39"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same man's face and shoulders visible, facing the camera.",
+      "at": "2:45"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Face visible with a hand raised to his chin; upper body in frame.",
+      "at": "3:47"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Head and shoulders in frame, face angled slightly downward.",
+      "at": "4:52"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Face with eyes lowered and a fist near his mouth, upper body in the shot.",
+      "at": "6:28"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Head and shoulders clearly in frame, face tilted down.",
+      "at": "8:25"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Man's face and shoulders centered in the frame.",
+      "at": "8:49"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Head and shoulders visible, gaze directed downward.",
+      "at": "11:00"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Face and torso in the shot in front of the shelves.",
+      "at": "11:38"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Face visible with a hand held up near his mouth.",
+      "at": "12:55"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Head and a raised hand near his face fill the lower center of the frame.",
+      "at": "14:38"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Man's face and shoulders visible, slightly left of center.",
+      "at": "16:18"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Head and shoulders in frame, looking downward.",
+      "at": "17:04"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Face and upper chest clearly visible in the frame.",
+      "at": "18:44"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Head and shoulders visible, eyes lowered.",
+      "at": "19:08"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person's head and upper body in a well-lit room with a white shelving unit behind. No frame was unreadable and none was empty; attendance is consistent across the sampled session."
+}
