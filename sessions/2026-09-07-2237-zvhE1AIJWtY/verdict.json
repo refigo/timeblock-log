@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-07-2237-zvhE1AIJWtY",
+  "verified_at": "2026-09-07T22:38:55+09:00",
+  "daystamp": "2026-09-07",
+  "verified_minutes": 102.5,
+  "presence_minutes": 102.5,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-07T20:45",
+  "broadcast_id": "zvhE1AIJWtY",
+  "claim_start": 0,
+  "claim_end": 6150,
+  "frames_outside_claim": 0,
+  "duration": 6150,
+  "title": "20260907-livework",
+  "seed": 324118585,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    240,
+    686,
+    1337,
+    1626,
+    2025,
+    2366,
+    2554,
+    2984,
+    3585,
+    3859,
+    4060,
+    4610,
+    4857,
+    5207,
+    5693
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Webcam inset at lower right shows a person's head and shoulders, face angled down.",
+      "at": "4:00"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Webcam inset shows a person's face and shoulders in front of a white shelf.",
+      "at": "11:26"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Person's head and upper body visible in the small camera inset at bottom right.",
+      "at": "22:17"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Head and shoulders of a person visible in the lower-right camera inset.",
+      "at": "27:06"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Camera inset at lower right shows a person's head tilted down, shoulders in frame.",
+      "at": "33:45"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Person visible in the inset, both hands raised near the head.",
+      "at": "39:26"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Head and shoulder of a person visible in the bottom-right camera inset.",
+      "at": "42:34"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Person's face and a raised hand visible in the lower-right camera inset.",
+      "at": "49:44"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Person's head with a hand near the temple visible in the camera inset.",
+      "at": "59:45"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Head and shoulders of a person visible in the small inset at bottom right.",
+      "at": "1:04:19"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Person's face and hand near the chin visible in the camera inset.",
+      "at": "1:07:40"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Full-frame webcam view: a person's face, shoulders and torso in front of a white bookshelf.",
+      "at": "1:16:50"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Full-frame view of a person's face and torso, one hand raised near the hair.",
+      "at": "1:20:57"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Full-frame view of a person's face and shoulders, seated in front of a shelf.",
+      "at": "1:26:47"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Person's head and hand near the mouth visible in the lower-right camera inset.",
+      "at": "1:34:53"
+    }
+  ],
+  "summary": "All 15 frames clearly show a person in the shot — mostly as a small webcam inset in the lower right, and in three frames as a full-screen camera view of the face and torso in front of a white shelf. No absent or unreadable frames."
+}
