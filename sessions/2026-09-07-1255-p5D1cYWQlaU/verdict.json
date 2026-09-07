@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-07-1255-p5D1cYWQlaU",
+  "verified_at": "2026-09-07T12:56:57+09:00",
+  "daystamp": "2026-09-07",
+  "verified_minutes": 25.1,
+  "presence_minutes": 25.1,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-07T12:29",
+  "broadcast_id": "p5D1cYWQlaU",
+  "claim_start": 0,
+  "claim_end": 1503,
+  "frames_outside_claim": 0,
+  "duration": 1503,
+  "title": "20260907-livework",
+  "seed": 37576849,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    76,
+    171,
+    303,
+    396,
+    485,
+    551,
+    620,
+    790,
+    842,
+    979,
+    1016,
+    1123,
+    1186,
+    1279,
+    1454
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Close-up of a person's face and shoulder filling the right of the frame, one hand raised to the ear, with a blurred ceiling behind.",
+      "at": "1:16"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Face and upper torso in a dark top visible at right of frame, ceiling and open room blurred behind.",
+      "at": "2:51"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Person's head and shoulders centered, eyes lowered, clearly visible against a blurred ceiling.",
+      "at": "5:03"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Head and shoulder of a person at lower left, face turned slightly, ceiling lights filling the upper frame.",
+      "at": "6:36"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Face centered with a hand raised to the side of the head, a watch on the wrist visible.",
+      "at": "8:05"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Person's face and shoulder in frame, hand near the temple, clearly readable image.",
+      "at": "9:11"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face fills the center-right of the frame with a hand at the side of the head.",
+      "at": "10:20"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Head and shoulders of a person clearly visible, looking downward, blurred ceiling behind.",
+      "at": "13:10"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Face and shoulders centered in frame, eyes open and directed forward.",
+      "at": "14:02"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Person's face and shoulders large in frame, looking toward the camera.",
+      "at": "16:19"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Face in profile-ish view with a closed hand raised near the chin, clearly in the shot.",
+      "at": "16:56"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Head and shoulder visible, one arm raised behind the head with a watch on the wrist.",
+      "at": "18:43"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Face and shoulders of a person centered, gaze lowered, image clear.",
+      "at": "19:46"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Face plus a hand and forearm extended across the lower frame, both clearly visible.",
+      "at": "21:19"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Head and shoulders centered in frame, face fully visible and readable.",
+      "at": "24:14"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person's head and shoulders (sometimes with a hand or forearm) in the shot, against a blurred open-room background. No absent or unreadable frames."
+}
