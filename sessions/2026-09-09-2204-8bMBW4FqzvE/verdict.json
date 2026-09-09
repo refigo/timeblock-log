@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-09-2204-8bMBW4FqzvE",
+  "verified_at": "2026-09-09T22:19:09+09:00",
+  "daystamp": "2026-09-09",
+  "verified_minutes": 35.1,
+  "presence_minutes": 35.1,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-09T21:41",
+  "broadcast_id": "8bMBW4FqzvE",
+  "claim_start": 0,
+  "claim_end": 2109,
+  "frames_outside_claim": 0,
+  "duration": 2109,
+  "title": "20260909-livework",
+  "seed": 2800575538,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    156,
+    270,
+    357,
+    509,
+    686,
+    732,
+    942,
+    1077,
+    1141,
+    1343,
+    1489,
+    1554,
+    1744,
+    1888,
+    2005
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person's face and shoulders fill the right of the frame, seated in front of a white bookshelf.",
+      "at": "2:36"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Face and shoulders visible, with a hand raised holding food near the mouth.",
+      "at": "4:30"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Person's head and upper body clearly visible facing the camera in front of the shelving.",
+      "at": "5:57"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and shoulders clearly in frame, slightly turned, against the same bookshelf background.",
+      "at": "8:29"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Screen-share layout with a webcam inset at bottom right showing a person's head and shoulders.",
+      "at": "11:26"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Webcam inset at bottom right shows the person's face, head tilted down.",
+      "at": "12:12"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Person's face and a raised hand visible in the bottom-right camera inset.",
+      "at": "15:42"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Head and an arm raised toward the head visible in the bottom-right inset.",
+      "at": "17:57"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Face and hand near the head visible in the corner camera inset.",
+      "at": "19:01"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Person's head and hand at the face visible in the bottom-right inset.",
+      "at": "22:23"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Head and shoulders of a person visible in the corner camera inset.",
+      "at": "24:49"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Face looking slightly down, visible in the bottom-right camera inset.",
+      "at": "25:54"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Person's face and an arm raised behind the head visible in the inset.",
+      "at": "29:04"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Head and shoulder visible in the bottom-right camera inset.",
+      "at": "31:28"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Face turned slightly down, clearly visible in the corner camera inset.",
+      "at": "33:25"
+    }
+  ],
+  "summary": "All 15 frames show the person in the shot — the first four as a full webcam view of face and shoulders in front of a bookshelf, the remaining eleven as a smaller camera inset in the corner of a screen-share layout, where the head and shoulders remain clearly visible. No gaps and no unreadable frames."
+}
