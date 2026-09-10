@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-10-2355-39t1vTPhjv0",
+  "verified_at": "2026-09-10T23:58:46+09:00",
+  "daystamp": "2026-09-10",
+  "verified_minutes": 76.6,
+  "presence_minutes": 76.6,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-10T22:40",
+  "broadcast_id": "39t1vTPhjv0",
+  "claim_start": 0,
+  "claim_end": 4598,
+  "frames_outside_claim": 0,
+  "duration": 4598,
+  "title": "20260910-livework",
+  "seed": 2207565065,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    369,
+    519,
+    953,
+    1165,
+    1566,
+    1662,
+    1943,
+    2193,
+    2530,
+    2924,
+    3275,
+    3589,
+    3838,
+    4107,
+    4191
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Full camera view: a person in a dark sweater faces the camera from the front, with a white bookshelf, a black chair back and a wall-mounted air conditioner behind them.",
+      "at": "6:09"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same full camera view: the person in the dark sweater is facing the camera, with the bookshelf and chair behind them.",
+      "at": "8:39"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Full camera view: the person is looking down, face and shoulders clearly visible, with the bookshelf and ceiling behind them.",
+      "at": "15:53"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "The frame is a screen capture with a small camera view in the lower right. In that view the person's head and shoulders are clearly visible in front of the bookshelf and chair.",
+      "at": "19:25"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Screen capture with the camera view in the lower right: the person's head and shoulders are visible, looking down.",
+      "at": "26:06"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person is leaning close to the lens and tilted, so their head and face take up the right side of that view.",
+      "at": "27:42"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person's head and shoulders are visible, facing roughly toward the camera, with the bookshelf behind them.",
+      "at": "32:23"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person is visible with a hand on their forehead, head and shoulders in the shot.",
+      "at": "36:33"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person is visible with a hand raised to their forehead, face partly covered, head and shoulders in the shot.",
+      "at": "42:10"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person's face and shoulders are visible in front of the bookshelf and chair.",
+      "at": "48:44"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person's face is visible, looking toward the camera.",
+      "at": "54:35"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person's head and shoulders are visible, looking slightly down.",
+      "at": "59:49"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person is close to the lens with a hand near their face, head and shoulder visible.",
+      "at": "1:03:58"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person is visible with a hand on their head, face and shoulders in the shot.",
+      "at": "1:08:27"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "In the lower-right camera view the person is visible with a hand near their mouth, head and shoulders in the shot.",
+      "at": "1:09:51"
+    }
+  ],
+  "summary": "The person was visible in all 15 frames: 15 present, 0 absent, 0 ambiguous. Frames 0–2 are a full camera view of them facing the lens. From frame 3 on, the frames are screen captures with a small camera view in the lower right, and the person is clearly in that view every time."
+}
