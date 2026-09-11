@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-11-2353-ubS7PVMThPo",
+  "verified_at": "2026-09-11T23:58:59+09:00",
+  "daystamp": "2026-09-11",
+  "verified_minutes": 22.4,
+  "presence_minutes": 22.4,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-11T23:33",
+  "broadcast_id": "ubS7PVMThPo",
+  "claim_start": 0,
+  "claim_end": 1345,
+  "frames_outside_claim": 0,
+  "duration": 1345,
+  "title": "20260911-livework",
+  "seed": 3965518313,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    79,
+    153,
+    263,
+    301,
+    382,
+    480,
+    618,
+    664,
+    765,
+    807,
+    945,
+    979,
+    1134,
+    1173,
+    1262
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A young man in a dark top is seen from the chest up, facing the camera and looking down. Behind him are a white bookshelf with books, a black chair back and the ceiling.",
+      "at": "1:19"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "The same man is in the center of the frame, face visible and eyes lowered. A bookshelf, a chair headrest and the ceiling are behind him.",
+      "at": "2:33"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "The man's face and shoulders fill the right side of the frame at a slight angle, a little blurred by movement but clearly readable. The bookshelf and ceiling are behind him.",
+      "at": "4:23"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "The man's head and shoulders are right of center and he is looking down. The bookshelf, chair headrest and ceiling are visible.",
+      "at": "5:01"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "The man's face is close to the camera on the right side, partly cropped at the bottom and looking down. The bookshelf and wall unit are behind him.",
+      "at": "6:22"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "The man is in the center from the chest up with his head tilted slightly, in front of the white bookshelf and chair headrest.",
+      "at": "8:00"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "The man is centered with a hand raised to his mouth, looking down. The bookshelf and ceiling are visible behind him.",
+      "at": "10:18"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "The man's hand is pressed to his forehead, pushing his hair aside, and his face and shoulders are visible. The bookshelf is behind him.",
+      "at": "11:04"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "The man is facing the camera from the chest up with his mouth slightly open, in front of the bookshelf and chair back.",
+      "at": "12:45"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "The man's face is close on the right side of the frame and he is looking down. The bookshelf and chair are visible behind him.",
+      "at": "13:27"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "The man's face and shoulders are on the right side, looking down and to the side, with the bookshelf and chair behind him.",
+      "at": "15:45"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "The man is left of center, head and shoulders visible, looking down. The bookshelf and ceiling are behind him.",
+      "at": "16:19"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "The man is in the lower right corner, sitting upright against the chair with a hand on his head and looking up and to the side. His eyes are open. A full bookshelf fills most of the frame.",
+      "at": "18:54"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "The man is in the lower right with a hand raised to his head and eyes lowered. The bookshelf with books takes up the rest of the frame.",
+      "at": "19:33"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "The man is right of center from the chest up, looking down, in front of the white bookshelf, with the ceiling above.",
+      "at": "21:02"
+    }
+  ],
+  "summary": "The same man is in the shot in all 15 frames, in front of a white bookshelf under a sloped ceiling. The frames are clear enough to read. In most he faces the camera from the chest up. In frames 12 and 13 he sits lower in the corner of the frame with a hand on his head, but his eyes are open and he is still in the chair. No frame is absent or ambiguous."
+}
