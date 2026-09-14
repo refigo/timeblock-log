@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-14-2326-LXKc9gFGxGA",
+  "verified_at": "2026-09-14T23:40:47+09:00",
+  "daystamp": "2026-09-14",
+  "verified_minutes": 31.8,
+  "presence_minutes": 31.8,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-14T22:58",
+  "broadcast_id": "LXKc9gFGxGA",
+  "claim_start": 0,
+  "claim_end": 1906,
+  "frames_outside_claim": 0,
+  "duration": 1906,
+  "title": "20260914-livework",
+  "seed": 649981379,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    168,
+    276,
+    335,
+    419,
+    575,
+    768,
+    832,
+    934,
+    1113,
+    1244,
+    1367,
+    1472,
+    1559,
+    1649,
+    1769
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person's face and upper body in a dark t-shirt, in front of a chair headrest and a bookshelf.",
+      "at": "2:48"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "A person's face, with an earbud visible, and upper body in front of a bookshelf and a chair headrest.",
+      "at": "4:36"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "A person's face tilted slightly and upper body in a dark t-shirt, with a bookshelf behind them.",
+      "at": "5:35"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "A person's face and a raised hand near the head, a little motion-blurred but clearly visible, in front of a bookshelf.",
+      "at": "6:59"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "A person's face looking toward the camera and upper body, with a chair headrest and a bookshelf behind them.",
+      "at": "9:35"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "A person's face and upper body leaning toward the left of the frame, slightly blurred, with a bookshelf behind them.",
+      "at": "12:48"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "A person's face and upper body in a dark t-shirt, with a chair headrest and shelves behind them.",
+      "at": "13:52"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "A person drinking from a black mug held in one hand, with their face partly visible, in front of a bookshelf.",
+      "at": "15:34"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "A person's face, head slightly tilted, and upper body in front of a bookshelf.",
+      "at": "18:33"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "A person's face looking down and upper body, with a chair headrest and a bookshelf behind them.",
+      "at": "20:44"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "A person's face looking down, close to the camera, and part of a hand at the bottom right of the frame.",
+      "at": "22:47"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "A person's face looking down, close to the camera, with a blurred hand at the bottom right and a bookshelf behind them.",
+      "at": "24:32"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "A person's face looking down and upper body, close to the camera, with part of a hand visible at the lower right.",
+      "at": "25:59"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "A person's face looking slightly to the side, with an earbud visible, and upper body in front of a bookshelf.",
+      "at": "27:29"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "A person's face close to the camera, with an earbud visible, and upper body in a dark t-shirt in front of a bookshelf.",
+      "at": "29:29"
+    }
+  ],
+  "summary": "The person is visible in all 15 frames, from 2:48 to 29:29, in the same room in front of a bookshelf. Some frames are close-ups, have slight motion blur or show them drinking from a mug, but none is unreadable and none shows an empty shot."
+}
