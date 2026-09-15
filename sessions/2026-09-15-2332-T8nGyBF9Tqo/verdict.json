@@ -1,0 +1,85 @@
+{
+  "session_id": "2026-09-15-2332-T8nGyBF9Tqo",
+  "verified_at": "2026-09-16T00:01:33+09:00",
+  "daystamp": "2026-09-15",
+  "verified_minutes": 114.7,
+  "presence_minutes": 114.7,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-15T21:36",
+  "broadcast_id": "T8nGyBF9Tqo",
+  "claim_start": 0,
+  "claim_end": 6880,
+  "frames_outside_claim": 0,
+  "duration": 6880,
+  "title": "20260915-livework",
+  "seed": 3865429427,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    224,
+    676,
+    1393,
+    1919,
+    1942,
+    2605,
+    2934
+  ],
+  "counts": {
+    "present": 7,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person in a dark t-shirt wearing an earbud is seated in a black chair in the middle of the frame, face toward the camera, with a bookshelf behind.",
+      "at": "3:44"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "The same person is centered in the frame, face and shoulders clearly visible in front of a black chair and a bookshelf, looking slightly down.",
+      "at": "11:16"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "The person is a little right of center with their head tilted, face and upper body clearly visible against the chair headrest and bookshelf.",
+      "at": "23:13"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "The person is seated facing the camera, face, shoulders and dark t-shirt clearly visible, with the bookshelf behind.",
+      "at": "31:59"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "The person is left of center with their head turned slightly and mouth open, face and upper body clearly visible in front of the bookshelf.",
+      "at": "32:22"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "The person is on the right side of the frame with a hand raised to their nose and mouth. Face, hand and shoulders are visible, with an empty part of the chair beside them.",
+      "at": "43:25"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "The person's face and shoulder fill the right side of the frame, close to the camera and looking down. The chair and bookshelf are visible behind them.",
+      "at": "48:54"
+    }
+  ],
+  "summary": "The person is clearly in the shot in all 7 frames, from 3:44 to 48:54, sitting in front of the same bookshelf and black chair. No frame was unreadable or empty."
+}
