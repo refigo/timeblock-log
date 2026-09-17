@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-16-2216-9A_CG7HjC0w",
+  "verified_at": "2026-09-17T21:27:39+09:00",
+  "daystamp": "2026-09-16",
+  "verified_minutes": 56.5,
+  "presence_minutes": 56.5,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-16T21:17",
+  "broadcast_id": "9A_CG7HjC0w",
+  "claim_start": 0,
+  "claim_end": 3393,
+  "frames_outside_claim": 0,
+  "duration": 3393,
+  "title": "20260916-livework",
+  "seed": 2948660157,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    102,
+    426,
+    627,
+    923,
+    991,
+    1290,
+    1538,
+    1781,
+    2011,
+    2095,
+    2425,
+    2561,
+    2848,
+    2981,
+    3103
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A man with dark hair faces the camera and drinks from a black mug; a white bookshelf is behind him.",
+      "at": "1:42"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "A man faces the camera with his fist raised to his mouth; a black chair back and a white bookshelf are behind him.",
+      "at": "7:06"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "A man faces the camera with his eyes lowered, sitting in front of a black chair back and a white bookshelf.",
+      "at": "10:27"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "A man's face and shoulders fill the right side of the frame, in front of a black chair back and a bookshelf.",
+      "at": "15:23"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "The frame has some motion blur, but a man's face and his raised hand are clearly visible in front of a bookshelf.",
+      "at": "16:31"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "A man faces the camera up close with his hand at his chin; a bookshelf and the ceiling are behind him.",
+      "at": "21:30"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "A man's face and shoulders are in the left-center of the frame, with a shelf and the ceiling behind him.",
+      "at": "25:38"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "A man faces the camera with his mouth open as if speaking; a white bookshelf is behind him.",
+      "at": "29:41"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "A man's face and shoulders are centered in the frame, in front of a white bookshelf.",
+      "at": "33:31"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "A man faces the camera with his eyes lowered, in front of a white bookshelf.",
+      "at": "34:55"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "A man at the right edge of the frame touches his head with one hand; a black chair back and a bookshelf are visible.",
+      "at": "40:25"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "A man faces the camera with his hand at his temple, sitting in front of a black chair back and a bookshelf.",
+      "at": "42:41"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "A man with his head tilted and resting on his hand faces the camera; a chair back and a bookshelf are behind him.",
+      "at": "47:28"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "A man leans his head on his raised hand and faces the camera; a chair back and a bookshelf are behind him.",
+      "at": "49:41"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "A man faces the camera with his fingers at his temple; a black chair back and a white bookshelf are behind him.",
+      "at": "51:43"
+    }
+  ],
+  "summary": "The person is present in all 15 frames. The camera faces up at a man in a dark T-shirt, with a white bookshelf and the ceiling behind him. Frame 4 has some motion blur, but he is still clearly visible. None of the frames were absent or ambiguous."
+}
