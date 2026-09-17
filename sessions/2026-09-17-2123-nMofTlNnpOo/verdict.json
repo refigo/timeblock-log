@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-17-2123-nMofTlNnpOo",
+  "verified_at": "2026-09-18T00:59:53+09:00",
+  "daystamp": "2026-09-17",
+  "verified_minutes": 32.5,
+  "presence_minutes": 32.5,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-17T20:50",
+  "broadcast_id": "nMofTlNnpOo",
+  "claim_start": 0,
+  "claim_end": 1951,
+  "frames_outside_claim": 0,
+  "duration": 1951,
+  "title": "20260917-livework",
+  "seed": 1408223017,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    111,
+    273,
+    422,
+    492,
+    655,
+    677,
+    891,
+    988,
+    1091,
+    1255,
+    1392,
+    1517,
+    1558,
+    1659,
+    1875
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person's face is visible up close, facing the camera, with a hand raised to the chin and a watch on the wrist. Behind them are ceiling lights and a blurred office.",
+      "at": "1:51"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "A person in a dark button-up shirt is in the frame, head tilted down, face clearly visible below a lit ceiling.",
+      "at": "4:33"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "A person's face and shoulders are centered in the frame, looking downward, with a blurred office ceiling behind.",
+      "at": "7:02"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "A close view of a person's face and dark shirt, eyes looking down, with ceiling lights behind.",
+      "at": "8:12"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "A person is visible lower in the frame, looking down, with a lot of ceiling and blurred black monitors in the background.",
+      "at": "10:55"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "A person's face and upper body are visible, head tilted and looking down, under ceiling lights with blurred monitors behind.",
+      "at": "11:17"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "A person faces the camera up close, wearing an earbud, in a dark shirt, with the office ceiling behind.",
+      "at": "14:51"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "A close view of a person's face, looking down, with an earbud in, and the ceiling lights behind.",
+      "at": "16:28"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "A person is visible toward the right side of the frame, looking down, with the ceiling and blurred monitors behind.",
+      "at": "18:11"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "A person's face and dark buttoned shirt are centered in the frame, eyes lowered, with ceiling lights and blurred monitors behind.",
+      "at": "20:55"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "A person's face is visible close to the camera, with a hand at the mouth and a watch on the wrist. The ceiling is behind.",
+      "at": "23:12"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "A person is looking toward the camera, with their face and dark shirt clearly visible and a blurred office background.",
+      "at": "25:17"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "A person's face and shoulders fill the lower right of the frame, looking down, under the ceiling lights.",
+      "at": "25:58"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "A person faces the camera with fingers raised to the mouth, below ceiling lights.",
+      "at": "27:39"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "A person's face and dark shirt are centered in the frame, looking down, with a blurred ceiling and office behind.",
+      "at": "31:15"
+    }
+  ],
+  "summary": "The person was in the shot in all 15 frames, marked present, with no absent or ambiguous frames. Every frame shows the same person, in a dark shirt, close to the camera in an office with a lot of ceiling visible. The camera angle and position shift a little from frame to frame, and every frame was clear enough to judge."
+}
