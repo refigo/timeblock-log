@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-20-2357-OAF60AjY_qM",
+  "verified_at": "2026-09-21T00:12:16+09:00",
+  "daystamp": "2026-09-20",
+  "verified_minutes": 44.4,
+  "presence_minutes": 44.4,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-20T23:05",
+  "broadcast_id": "OAF60AjY_qM",
+  "claim_start": 0,
+  "claim_end": 3071,
+  "frames_outside_claim": 0,
+  "duration": 3071,
+  "title": "20260920-livework",
+  "seed": 3530620022,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    143,
+    441,
+    503,
+    750,
+    915,
+    1081,
+    1404,
+    1554,
+    1824,
+    1971,
+    2062,
+    2329,
+    2458,
+    2765,
+    2811
+  ],
+  "counts": {
+    "present": 13,
+    "absent": 2,
+    "ambiguous": 0
+  },
+  "presence_ratio": 0.8666666666666667,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Blurred upward-tilted shot of a room with a white shelf unit; the top of a black chair back and a lilac hooded garment fill the lower frame, but no part of a person is visible.",
+      "at": "2:23"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "A man's head, shoulders and dark t-shirt fill the center of the frame, facing the camera, with an earbud in his left ear.",
+      "at": "7:21"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Same man's face and upper torso centered in frame, looking toward the camera.",
+      "at": "8:23"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Close head-and-shoulders view of the man, eyes angled downward, dark shirt visible.",
+      "at": "12:30"
+    },
+    {
+      "index": 4,
+      "verdict": "absent",
+      "why": "Blurry, tilted view of the shelf unit and ceiling; only an empty chair back and a lilac garment draped over it in the lower-left corner, no person in the shot.",
+      "at": "15:15"
+    },
+    {
+      "index": 5,
+      "verdict": "absent",
+      "why": "Nearly identical blurred room view — shelf, ceiling, air conditioner, and an unoccupied chair with a lilac garment at lower left; nobody in frame.",
+      "at": "18:01"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "The man occupies the right side of the frame in profile, head tilted down, bare forearm and dark t-shirt clearly visible.",
+      "at": "23:24"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "His face and shoulder fill the right side of the frame, arm raised across the lower right, looking off to the side.",
+      "at": "25:54"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Back and side of his head with an earbud, neck and shirted shoulder at the right edge of the frame.",
+      "at": "30:24"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "His head and upper body on the right side of frame, face toward the camera, mouth open mid-speech.",
+      "at": "32:51"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Head, neck and shirted shoulder on the right side, leaning against a chair back, face turned toward the camera.",
+      "at": "34:22"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "He leans back with head tilted up, hand raised near his head and a watch on the wrist at the right edge.",
+      "at": "38:49"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Seated against the chair headrest, face toward camera, raised fist and wristwatch at the right of frame.",
+      "at": "40:58"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Head and shoulders centered, facing the camera, dark shirt and shelf behind him.",
+      "at": "46:05"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Face fills the center of the frame at close range, eyes toward the camera, shoulders in dark shirt at the bottom.",
+      "at": "46:51"
+    }
+  ],
+  "summary": "Thirteen of fifteen frames clearly show the same man in shot — face-on, in profile, or from behind — in a small room with a white shelf unit. Two frames (4 and 5, around 15–18 minutes) are readable enough to show only an empty chair with a garment draped on it and no person, and one early frame (0) is similar though blurrier. Otherwise attendance is continuous across the session."
+}
