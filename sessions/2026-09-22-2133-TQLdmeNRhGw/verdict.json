@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-22-2133-TQLdmeNRhGw",
+  "verified_at": "2026-09-22T21:34:52+09:00",
+  "daystamp": "2026-09-21",
+  "verified_minutes": 25.6,
+  "presence_minutes": 25.6,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-21T21:39",
+  "broadcast_id": "TQLdmeNRhGw",
+  "claim_start": 0,
+  "claim_end": 1533,
+  "frames_outside_claim": 0,
+  "duration": 1533,
+  "title": "20260921-livework",
+  "seed": 223703546,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    136,
+    208,
+    317,
+    348,
+    452,
+    563,
+    650,
+    739,
+    832,
+    964,
+    1023,
+    1156,
+    1267,
+    1342,
+    1423
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Person in a dark t-shirt, face toward the camera, eyes looking down; white bookshelf and ceiling behind them.",
+      "at": "2:16"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Person on the right of the frame, face turned slightly and mouth open; bookshelf and black chair back behind them.",
+      "at": "3:28"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Person facing the camera and looking down, head and shoulders in view; bookshelf behind them.",
+      "at": "5:17"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Person facing the camera and looking down, head and shoulders in view.",
+      "at": "5:48"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Person in the middle of the frame, head and upper body visible, looking down; black chair back behind them.",
+      "at": "7:32"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Person's face and shoulders in view, head tilted slightly, looking toward the camera.",
+      "at": "9:23"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Person's head and shoulders in view, looking down.",
+      "at": "10:50"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Person with head tilted to one side, face and upper body visible, looking down.",
+      "at": "12:19"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Person's head and shoulders in view, looking down.",
+      "at": "13:52"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Person on the right side of the frame, face toward the camera, mouth open; chair back and bookshelf behind them.",
+      "at": "16:04"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Person with one hand up at their forehead, face and raised arm visible.",
+      "at": "17:03"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Person facing the camera and looking down, head and shoulders in view.",
+      "at": "19:16"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Person facing the camera and looking down, head and shoulders in view; slight motion blur, but the person is clear.",
+      "at": "21:07"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Person centered in the frame, looking at the camera, head and shoulders visible.",
+      "at": "22:22"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Person facing the camera, head and shoulders in view.",
+      "at": "23:43"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person seated in front of a white bookshelf, from a low camera angle that also catches the ceiling. None are unreadable and none show an empty shot, so all 15 are marked present."
+}
