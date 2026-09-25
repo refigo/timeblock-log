@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-25-2352-Kj7YnZvX00g",
+  "verified_at": "2026-09-26T00:02:01+09:00",
+  "daystamp": "2026-09-25",
+  "verified_minutes": 29.4,
+  "presence_minutes": 29.4,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-25T23:22",
+  "broadcast_id": "Kj7YnZvX00g",
+  "claim_start": 0,
+  "claim_end": 1762,
+  "frames_outside_claim": 0,
+  "duration": 1762,
+  "title": "20260925-live",
+  "seed": 3721435001,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    80,
+    172,
+    346,
+    396,
+    604,
+    655,
+    738,
+    835,
+    977,
+    1149,
+    1261,
+    1291,
+    1430,
+    1539,
+    1653
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A man's face and shoulders fill the center-right of the frame, looking toward the camera, with bookshelves and a wall unit behind him.",
+      "at": "1:20"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "A grey-sleeved shoulder and part of a head/neck occupy the right edge of the frame, in front of a chair headrest and bookshelf.",
+      "at": "2:52"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "The side and back of a man's head with visible ear, plus his shoulder in a grey top, at the right of the frame.",
+      "at": "5:46"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Dark hair, an ear and a grey-clad shoulder are visible at the right edge, head tilted downward.",
+      "at": "6:36"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "A tilted head with ear and jawline plus a grey-sleeved shoulder occupy the right portion of the frame.",
+      "at": "10:04"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Part of a head and a large grey-clad shoulder/upper arm are visible at the right side of the shot.",
+      "at": "10:55"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "The side of a head with ear and dark hair, and a shoulder in grey, are in the right of the frame.",
+      "at": "12:18"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "A grey-sleeved arm and shoulder with a partially visible head at the right edge, chair headrest behind.",
+      "at": "13:55"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Back and side of a head with visible ear and neck, plus shoulder in a grey top, at the right of the frame.",
+      "at": "16:17"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "A man's cheek, ear and jaw plus his grey-clothed shoulder fill the right side of the frame.",
+      "at": "19:09"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Side of a head with ear and a grey-sleeved shoulder/arm visible at the right edge of the shot.",
+      "at": "21:01"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Dark hair, an ear and a shoulder in grey are visible at the right edge, leaning slightly forward.",
+      "at": "21:31"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "A face in near-profile — cheek, ear, jaw and neck — with a grey-clad shoulder on the right of the frame.",
+      "at": "23:50"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "A man's face turned partly toward the camera with hair, eye and cheek visible, plus shoulder, at the right.",
+      "at": "25:39"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "A head at the right edge with a raised forearm and hand up near the face, shoulder in grey below.",
+      "at": "27:33"
+    }
+  ],
+  "summary": "All 15 frames show the same person in a room with white bookshelves and an office chair. Frame 0 is a full face-on view; the rest are close side/rear crops where a head, ear, shoulder, or arm is clearly in the shot. No frame was unreadable and none showed an empty scene."
+}
