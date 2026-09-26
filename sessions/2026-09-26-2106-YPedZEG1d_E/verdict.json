@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-26-2106-YPedZEG1d_E",
+  "verified_at": "2026-09-26T21:30:14+09:00",
+  "daystamp": "2026-09-26",
+  "verified_minutes": 28.4,
+  "presence_minutes": 28.4,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-26T20:37",
+  "broadcast_id": "YPedZEG1d_E",
+  "claim_start": 0,
+  "claim_end": 1706,
+  "frames_outside_claim": 0,
+  "duration": 1706,
+  "title": "202260926-livework",
+  "seed": 2133019527,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    59,
+    241,
+    366,
+    461,
+    535,
+    640,
+    729,
+    865,
+    959,
+    1095,
+    1155,
+    1263,
+    1363,
+    1506,
+    1577
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person in a grey henley fills the center of the frame, head tilted back, drinking from a white bottle held in their raised hand.",
+      "at": "0:59"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Face and upper body in view, head resting toward a raised hand near the chin, eyes toward the camera.",
+      "at": "4:01"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Head and shoulders centered, face looking slightly downward, grey henley shirt visible.",
+      "at": "6:06"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face clearly visible with eyes cast down, shoulders in the lower frame.",
+      "at": "7:41"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Person facing the camera, full face and shoulders visible.",
+      "at": "8:55"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Face and shoulders centered in the shot, looking toward the camera.",
+      "at": "10:40"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Head and torso in frame, face toward the lens.",
+      "at": "12:09"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Face and shoulders visible, seated upright and facing the camera.",
+      "at": "14:25"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Person visible slightly left of center, face turned toward the camera, shoulder in view.",
+      "at": "15:59"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Head and shoulders clearly in frame, eyes toward the camera.",
+      "at": "18:15"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Person shifted to the right of center, face and shoulder visible.",
+      "at": "19:15"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Face and upper chest visible, looking at the camera.",
+      "at": "21:03"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Face in the left-center of the frame with a hand raised to the mouth, arm and shoulder visible.",
+      "at": "22:43"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Person at the right of frame, face visible with a hand near the nose and a watch on the wrist.",
+      "at": "25:06"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Head and shoulders centered, face directed toward the camera.",
+      "at": "26:17"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person in a grey henley in the shot, framed head-and-shoulders against a blurred open-plan room. Poses vary — drinking from a bottle, hand at the chin, leaning left or right — but in every frame the person is visibly there. No absent or unreadable frames."
+}
