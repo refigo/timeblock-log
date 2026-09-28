@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-09-28-2124-I07D2TfjyJU",
+  "verified_at": "2026-09-28T21:40:19+09:00",
+  "daystamp": "2026-09-28",
+  "verified_minutes": 78.4,
+  "presence_minutes": 78.4,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-09-28T20:04",
+  "broadcast_id": "I07D2TfjyJU",
+  "claim_start": 0,
+  "claim_end": 4704,
+  "frames_outside_claim": 0,
+  "duration": 4704,
+  "title": "20260928-livework",
+  "seed": 3976783231,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    397,
+    623,
+    860,
+    1239,
+    1472,
+    1633,
+    2123,
+    2459,
+    2768,
+    2929,
+    3110,
+    3539,
+    3727,
+    4253,
+    4316
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Man in a navy t-shirt fills the frame, face lit and gaze angled downward, against a ribbed white wall.",
+      "at": "6:37"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same person's head and shoulders visible, shifted left in the frame, eyes open and looking down.",
+      "at": "10:23"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Face and a raised hand near the chin are clearly visible in the lower-angle shot.",
+      "at": "14:20"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Head and upper torso visible; ceiling panels show at the top but the person is plainly in the shot.",
+      "at": "20:39"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Face in the center-right of the frame with one hand raised to the temple; eyes open.",
+      "at": "24:32"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Head and shoulders visible against the ribbed wall, eyes open and looking slightly down.",
+      "at": "27:13"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face plus a hand held near the mouth, with a watch on the wrist, all clearly in frame.",
+      "at": "35:23"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Head and shoulders on the right side of the frame, hand touching the side of the head.",
+      "at": "40:59"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Face and shoulders visible, one hand at the temple; eyes open.",
+      "at": "46:08"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Head and shoulders centered, face angled down with eyes open and mouth slightly open.",
+      "at": "48:49"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Face visible looking toward the camera, with a hand entering the bottom of the frame.",
+      "at": "51:50"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Head and torso visible, face toward the camera in a slightly tilted low-angle shot.",
+      "at": "58:59"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Face and shoulders visible with a hand raised to the side of the head.",
+      "at": "1:02:07"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Face visible with a hand near the mouth; head upright and eyes open.",
+      "at": "1:10:53"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Head resting against a propped fist, eyes closed or nearly closed but head upright and clearly in the shot, not lying down.",
+      "at": "1:11:56"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person in the shot against a ribbed white wall — face and shoulders throughout, sometimes with a hand raised to the head or mouth. No frame was unreadable and none was empty; the final frame shows him leaning on his hand with eyes low but still upright in position. Attendance is consistent across the full session."
+}
