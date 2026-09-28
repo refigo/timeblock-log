@@ -1,0 +1,13 @@
+{
+  "session_id": "2026-09-28-2124-I07D2TfjyJU",
+  "broadcast_id": "I07D2TfjyJU",
+  "url": "https://www.youtube.com/watch?v=I07D2TfjyJU",
+  "declared": null,
+  "seed": 3976783231,
+  "frames": 15,
+  "threshold": 0.7,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint": "ae3cecdf3eea5b2a",
+  "started_at": "2026-09-28T21:24:09+09:00",
+  "window": null
+}
