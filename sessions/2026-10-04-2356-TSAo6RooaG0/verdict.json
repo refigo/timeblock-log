@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-10-04-2356-TSAo6RooaG0",
+  "verified_at": "2026-10-04T23:58:22+09:00",
+  "daystamp": "2026-10-03",
+  "verified_minutes": 25.5,
+  "presence_minutes": 25.5,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-10-03T22:47",
+  "broadcast_id": "TSAo6RooaG0",
+  "claim_start": 0,
+  "claim_end": 1532,
+  "frames_outside_claim": 0,
+  "duration": 1532,
+  "title": "20261003-livework",
+  "seed": 513450243,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    46,
+    237,
+    266,
+    357,
+    492,
+    603,
+    669,
+    729,
+    827,
+    922,
+    1046,
+    1128,
+    1257,
+    1333,
+    1455
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A man in a light jacket over a dark tee fills the right of the frame against a ribbed white wall, face visible with eyes lowered.",
+      "at": "0:46"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Face clearly visible, one hand raised to the side of his head, wristband on the forearm.",
+      "at": "3:57"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Same man facing the camera, hand resting against his temple, eyes open.",
+      "at": "4:26"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and torso in frame, hand pushed up into his hair, watch visible on the wrist.",
+      "at": "5:57"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Head and shoulders at the left of the frame, fist propped against his forehead, eyes open.",
+      "at": "8:12"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Face centered and well lit, earbud visible, shoulders and jacket in shot.",
+      "at": "10:03"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face visible with a hand curled at his mouth, watch on the wrist, eyes open.",
+      "at": "11:09"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Seated further from the camera against the ribbed wall, arms folded, face turned toward the lens.",
+      "at": "12:09"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Clear profile view of the man's head and shoulder, earbud in his ear, facing left.",
+      "at": "13:47"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Face and upper body centered in frame, looking slightly downward toward the camera.",
+      "at": "15:22"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Close head-and-shoulders view with a hand at his temple, face filling the lower left of the frame.",
+      "at": "17:26"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Face close to the camera in a low upward angle, eyes open, collar and shoulders visible.",
+      "at": "18:48"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Seated against the wall with a fist held at his chin, face visible and eyes open.",
+      "at": "20:57"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Leaning back against the wall with both hands clasped behind his head, face upright and eyes open; much of the frame is wall and ceiling.",
+      "at": "22:13"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Face at the right of the frame with a hand raked into his hair, eyes open, ceiling visible above the ribbed wall.",
+      "at": "24:15"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person in the shot against a ribbed white wall — face, profile, or head-and-shoulders at varying distances and angles. No absent or unreadable frames; attendance is consistent across the full session."
+}
