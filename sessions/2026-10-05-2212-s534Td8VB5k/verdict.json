@@ -1,0 +1,99 @@
+{
+  "session_id": "2026-10-05-2212-s534Td8VB5k",
+  "verified_at": "2026-10-05T23:10:05+09:00",
+  "daystamp": "2026-10-05",
+  "verified_minutes": 66.4,
+  "presence_minutes": 66.4,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-10-05T21:03",
+  "broadcast_id": "s534Td8VB5k",
+  "claim_start": 0,
+  "claim_end": 3986,
+  "frames_outside_claim": 0,
+  "duration": 3986,
+  "title": "20261005-livework",
+  "seed": 1239303989,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    245,
+    526,
+    640,
+    902,
+    1173,
+    1584,
+    1792,
+    2094,
+    2346
+  ],
+  "counts": {
+    "present": 9,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person in a black t-shirt is in frame from the chest up, face tilted slightly and visible against a ribbed white wall.",
+      "at": "4:05"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Head and shoulders of a person in a black top fill the center of the frame, eyes angled downward, earbud visible.",
+      "at": "8:46"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Person visible from the shoulders up, holding a white tumbler to their mouth with one hand; a wristwatch is visible on that arm.",
+      "at": "10:40"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and shoulder of a person in black are clearly in frame at a low upward angle that also catches the ceiling.",
+      "at": "15:02"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Person's head and upper torso are centered in the frame, looking toward the camera, with ceiling visible at the top.",
+      "at": "19:33"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Head and shoulders of a person in a black top fill most of the frame, face angled downward.",
+      "at": "26:24"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "A person in a black long-sleeve top is seated in the lower-center of the frame, face toward the camera, with a large area of wall above them.",
+      "at": "29:52"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Person is centered in frame from the chest up, facing the camera directly against the ribbed wall.",
+      "at": "34:54"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Person visible from the shoulders up with a hand raised to their chin; face and forearm both clearly in frame.",
+      "at": "39:06"
+    }
+  ],
+  "summary": "All nine frames clearly show the same person in the shot, framed from roughly the chest or shoulders up against a ribbed white wall, at a low upward camera angle that often includes the ceiling. Nothing in any frame suggests they had stepped away, and no frame was too dark, blurred, or blocked to read. Attendance is consistent across the whole sampled session."
+}
