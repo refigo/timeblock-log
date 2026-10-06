@@ -1,0 +1,127 @@
+{
+  "session_id": "2026-10-06-2350-l5Q0JttxTm8",
+  "verified_at": "2026-10-07T00:08:06+09:00",
+  "daystamp": "2026-10-06",
+  "verified_minutes": 95.0,
+  "presence_minutes": 95.0,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-10-06T22:14",
+  "broadcast_id": "l5Q0JttxTm8",
+  "claim_start": 0,
+  "claim_end": 5703,
+  "frames_outside_claim": 0,
+  "duration": 5703,
+  "title": "20261006-livework",
+  "seed": 2462192886,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    374,
+    684,
+    979,
+    1340,
+    1918,
+    1995,
+    2563,
+    2756,
+    3159,
+    3424,
+    4066,
+    4123,
+    4695
+  ],
+  "counts": {
+    "present": 13,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person fills the center of the frame — face and dark shirt against a ribbed white wall, head tilted slightly down.",
+      "at": "6:14"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same person seated facing the camera, face and shoulders clearly visible; a small black camera or device appears at the left edge.",
+      "at": "11:24"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Person's face and a raised hand near their mouth are clearly in frame at close range.",
+      "at": "16:19"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and upper torso in a dark shirt are centered and clearly visible, eyes toward the camera.",
+      "at": "22:20"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Person visible head-and-shoulders, looking slightly downward, against the ribbed white wall.",
+      "at": "31:58"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Head and torso centered in frame, face in focus and gaze angled down.",
+      "at": "33:15"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Person is in frame on the right with one hand raised to their hair, a band on the wrist; face partly visible.",
+      "at": "42:43"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Face and upper body clearly visible, seated upright and facing roughly toward the camera.",
+      "at": "45:56"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Head and shoulders clearly in frame, face lit and visible, eyes directed slightly down.",
+      "at": "52:39"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Person visible lower-center of a wide shot showing much of the wall; head, torso and a forearm crossed in front are readable.",
+      "at": "57:04"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Close view of the person's face with a hand propped against their head and a watch on the wrist.",
+      "at": "1:07:46"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Face and dark shirt centered in the frame, clearly readable.",
+      "at": "1:08:43"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Head and shoulders in frame, face in focus and angled slightly down.",
+      "at": "1:18:15"
+    }
+  ],
+  "summary": "All 13 frames are legible and show the same person in the shot throughout, from about 6 minutes to 1 hour 18 minutes into the session. Framing varies between close head-and-shoulders views and one wider shot, and posture shifts (hand to face, hand in hair, arm across the body), but no frame is empty or unreadable. Attendance is consistent across the whole sampled span."
+}
