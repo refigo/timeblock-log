@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-10-07-2358-jZYBNqnJPaI",
+  "verified_at": "2026-10-08T00:05:51+09:00",
+  "daystamp": "2026-10-07",
+  "verified_minutes": 23.4,
+  "presence_minutes": 23.4,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-10-07T23:34",
+  "broadcast_id": "jZYBNqnJPaI",
+  "claim_start": 0,
+  "claim_end": 1407,
+  "frames_outside_claim": 0,
+  "duration": 1407,
+  "title": "20261007-livework",
+  "seed": 126113456,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    91,
+    164,
+    262,
+    368,
+    456,
+    502,
+    585,
+    685,
+    833,
+    896,
+    1009,
+    1035,
+    1161,
+    1232,
+    1295
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Man's face and shoulders fill the right of the frame, eyes open and looking down, in front of a white shelving unit with books.",
+      "at": "1:31"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same man's head and shoulders visible, one hand raised to his forehead at the right edge.",
+      "at": "2:44"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Head tilted forward so the top of his hair and part of his face fill the frame; shoulder in dark shirt also visible.",
+      "at": "4:22"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and hair clearly visible, head angled down, shoulders in a dark shirt.",
+      "at": "6:08"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Top of head and lower face visible, leaning forward; shoulder and chair back in shot.",
+      "at": "7:36"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Head bowed with hair and the lower half of the face in frame, shoulder visible.",
+      "at": "8:22"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Head and face visible, slightly blurred by movement but clearly a person leaning toward the camera.",
+      "at": "9:45"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Face centered, eyes open and looking toward the camera, shoulders in a dark shirt.",
+      "at": "11:25"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Full face visible head-on with hair and shoulders, well lit against the shelf background.",
+      "at": "13:53"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Head bowed close to the camera, hair, ear, and part of the face plus shoulder in frame.",
+      "at": "14:56"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Person's head and a raised hand appear in the lower right area in front of the bookshelf; shoulder visible in dark shirt.",
+      "at": "16:49"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Head, ear, and shoulder occupy the right side of the frame, face angled downward.",
+      "at": "17:15"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Side of the head, ear, neck, and shoulder clearly fill the right portion of the frame.",
+      "at": "19:21"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Profile of head and shoulder in the right half of the frame, hair and ear clearly visible.",
+      "at": "20:32"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Side/back of the head with hair, ear, and shoulder in a dark shirt at the right edge of the frame.",
+      "at": "21:35"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person in the shot, seated in front of a white shelf of books with a chair back visible. Head position and angle vary — facing the camera, bowed forward, or turned in profile toward the right of the frame — but a face, head, or shoulder is readable in every frame. No frames were unreadable and none showed an empty shot."
+}
