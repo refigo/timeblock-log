@@ -1,0 +1,13 @@
+{
+  "session_id": "2026-10-10-2145-tKwiVe_3nlE",
+  "broadcast_id": "tKwiVe_3nlE",
+  "url": "https://www.youtube.com/watch?v=tKwiVe_3nlE",
+  "declared": null,
+  "seed": 2307345662,
+  "frames": 15,
+  "threshold": 0.7,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint": "ae3cecdf3eea5b2a",
+  "started_at": "2026-10-10T21:45:12+09:00",
+  "window": null
+}
