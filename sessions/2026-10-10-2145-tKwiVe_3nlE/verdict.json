@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-10-10-2145-tKwiVe_3nlE",
+  "verified_at": "2026-10-10T22:49:46+09:00",
+  "daystamp": "2026-10-10",
+  "verified_minutes": 65.7,
+  "presence_minutes": 65.7,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-10-10T21:08",
+  "broadcast_id": "tKwiVe_3nlE",
+  "claim_start": 0,
+  "claim_end": 3942,
+  "frames_outside_claim": 0,
+  "duration": 3942,
+  "title": "20261010-livework",
+  "seed": 2307345662,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    143,
+    465,
+    641,
+    906,
+    1275,
+    1455,
+    1747,
+    1959,
+    2125,
+    2555,
+    2659,
+    2932,
+    3292,
+    3396,
+    3748
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Man in a black tee facing the camera, hand raised to his chin, against a ribbed wall panel.",
+      "at": "2:23"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Head, shoulders and torso of a person in a black shirt centered in frame, seated against a chair headrest.",
+      "at": "7:45"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Person facing the camera, face and shoulders clearly visible in front of the striped wall.",
+      "at": "10:41"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and upper torso fill the left-center of the frame, eyes toward the camera.",
+      "at": "15:06"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Person visible from the chest up, fist held near the mouth, eyes lowered.",
+      "at": "21:15"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Head and shoulders in frame, face angled slightly down, black shirt and chair headrest behind.",
+      "at": "24:15"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face and shoulders clearly in frame, mouth open as if speaking.",
+      "at": "29:07"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Face at left and a bare forearm crossing the lower right of the frame.",
+      "at": "32:39"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Person facing camera with a hand held in front of the mouth, torso in black visible.",
+      "at": "35:25"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Face toward the camera with one hand raised to the hair, wristwatch visible on the forearm.",
+      "at": "42:35"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Head and shoulders centered, both hands clasped in front of the chin.",
+      "at": "44:19"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Face and shoulders fill the center of the frame, looking slightly down toward the camera.",
+      "at": "48:52"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Person in a black shirt with a fist against the chin, face clearly visible.",
+      "at": "54:52"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Head tilted down with eyes lowered, shoulders and black shirt in frame; clearly upright, not asleep.",
+      "at": "56:36"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Face and upper body centered in frame, eyes open toward the camera.",
+      "at": "1:02:28"
+    }
+  ],
+  "summary": "All 15 sampled frames show the same person in a black shirt seated in front of a ribbed wall panel, visible from roughly the chest up in every shot. Poses vary — hand at the chin, scratching the hair, head tilted down, speaking — but the person is in the shot continuously across the full hour sampled. No absent or unreadable frames."
+}
