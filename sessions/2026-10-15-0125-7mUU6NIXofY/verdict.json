@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-10-15-0125-7mUU6NIXofY",
+  "verified_at": "2026-10-15T01:37:06+09:00",
+  "daystamp": "2026-10-14",
+  "verified_minutes": 66.5,
+  "presence_minutes": 66.5,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-10-14T21:18",
+  "broadcast_id": "7mUU6NIXofY",
+  "claim_start": 0,
+  "claim_end": 3988,
+  "frames_outside_claim": 0,
+  "duration": 3988,
+  "title": "20261014-livework",
+  "seed": 1881275779,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    123,
+    561,
+    659,
+    1114,
+    1171,
+    1512,
+    1867,
+    1947,
+    2231,
+    2461,
+    2852,
+    3076,
+    3232,
+    3500,
+    3849
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Man's face and shoulder fill the left of the frame, shot from below; white shelving and books behind him.",
+      "at": "2:03"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Face on the right side of frame with a raised fist/hand near the chin; shelves and books visible behind.",
+      "at": "9:21"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Close face from a low angle with a hand held over the mouth; shelf and books in the background.",
+      "at": "10:59"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face centered looking slightly down toward the camera, shoulders in the beige top, shelving behind.",
+      "at": "18:34"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Head and shoulders centered in the frame, eyes toward the lens, bookshelf and chair back behind.",
+      "at": "19:31"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Face and collared beige shirt fill the center of the frame; shelf with books and a blue object behind.",
+      "at": "25:12"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face from a low angle with a hand raised across the lower face; shelving and books behind.",
+      "at": "31:07"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Head and shoulder visible center-right, face turned toward the camera, shelves and books behind.",
+      "at": "32:27"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Head and shoulders centered, chair back behind, bookshelf to the left of the frame.",
+      "at": "37:11"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Person at right of frame with a hand up behind the head, face toward the camera; shelf and books on the left.",
+      "at": "41:01"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Face and collared shirt fill most of the frame, shelving and books behind.",
+      "at": "47:32"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Close face with a hand held in front of the mouth; shelf and books dimly visible behind.",
+      "at": "51:16"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Head and shoulders centered, looking toward the lens, bookshelf and chair back behind.",
+      "at": "53:52"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Face close to the lens from a low angle with an arm crossing the lower left of the frame; shelf behind.",
+      "at": "58:20"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Face and shoulders centered in the frame, slight smile, shelving and books behind.",
+      "at": "1:04:09"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person's head and shoulders in a lit room with shelving behind; no absent or unreadable frames. Attendance is consistent across the full session."
+}
