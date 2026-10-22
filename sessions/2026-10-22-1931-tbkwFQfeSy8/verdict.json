@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-10-22-1931-tbkwFQfeSy8",
+  "verified_at": "2026-10-23T01:11:49+09:00",
+  "daystamp": "2026-10-22",
+  "verified_minutes": 25.7,
+  "presence_minutes": 25.7,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-10-22T19:04",
+  "broadcast_id": "tbkwFQfeSy8",
+  "claim_start": 0,
+  "claim_end": 1544,
+  "frames_outside_claim": 0,
+  "duration": 1544,
+  "title": "20261022-livework",
+  "seed": 1493365918,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    97,
+    191,
+    241,
+    350,
+    493,
+    573,
+    643,
+    811,
+    898,
+    979,
+    1046,
+    1164,
+    1274,
+    1383,
+    1491
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person's head and shoulders fill the frame against a yellow wall; he is sipping from a clear cup with a yellow straw, one hand holding the cup.",
+      "at": "1:37"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Head and shoulders in dark top, face toward camera with a hand raised to the mouth/chin.",
+      "at": "3:11"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Same person's face and shoulders clearly visible, hand held up near the chin.",
+      "at": "4:01"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and upper torso centered in the frame, eyes open and directed forward.",
+      "at": "5:50"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Head and shoulders clearly in shot against the yellow wall, an earbud visible in the ear.",
+      "at": "8:13"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Person's face and dark buttoned top plainly visible, looking slightly downward.",
+      "at": "9:33"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Head and shoulders fill the center of the frame, eyes open and facing the camera.",
+      "at": "10:43"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Face and shoulders visible, gaze shifted to one side; clearly upright and in shot.",
+      "at": "13:31"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Person seated in front of the yellow wall, face and torso clearly in frame.",
+      "at": "14:58"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Face and upper body visible, head tilted slightly down with eyes open.",
+      "at": "16:19"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Head and shoulders clearly in shot, looking downward; a dark object edge at bottom left.",
+      "at": "17:26"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Face visible with a fist raised under the nose and a wristwatch on the forearm.",
+      "at": "19:24"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Person's face and shoulders centered in frame, facing the camera.",
+      "at": "21:14"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Face and dark top clearly visible against the yellow wall, eyes open.",
+      "at": "23:03"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Head and shoulders clearly in frame, face toward the camera.",
+      "at": "24:51"
+    }
+  ],
+  "summary": "All 15 frames show the same person's head and upper body clearly framed against a yellow wall, upright and awake throughout. No gaps, no unreadable frames — attendance is fully supported across the whole session."
+}
