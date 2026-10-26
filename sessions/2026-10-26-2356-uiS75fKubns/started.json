@@ -1,0 +1,13 @@
+{
+  "session_id": "2026-10-26-2356-uiS75fKubns",
+  "broadcast_id": "uiS75fKubns",
+  "url": "https://www.youtube.com/watch?v=uiS75fKubns",
+  "declared": null,
+  "seed": 3491373924,
+  "frames": 15,
+  "threshold": 0.7,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint": "ae3cecdf3eea5b2a",
+  "started_at": "2026-10-26T23:56:26+09:00",
+  "window": null
+}
