@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-10-26-2356-uiS75fKubns",
+  "verified_at": "2026-10-27T00:01:34+09:00",
+  "daystamp": "2026-10-26",
+  "verified_minutes": 28.7,
+  "presence_minutes": 28.7,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-10-26T23:27",
+  "broadcast_id": "uiS75fKubns",
+  "claim_start": 0,
+  "claim_end": 1720,
+  "frames_outside_claim": 0,
+  "duration": 1720,
+  "title": "20261026-livework",
+  "seed": 3491373924,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    128,
+    212,
+    348,
+    429,
+    565,
+    620,
+    795,
+    883,
+    941,
+    1058,
+    1172,
+    1315,
+    1431,
+    1474,
+    1578
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person in a black t-shirt fills the center of the frame, face toward the camera with one hand raised to the mouth, bookshelf behind.",
+      "at": "2:08"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Face and shoulders in a black t-shirt fill the right half of the frame, eyes directed downward, shelving behind.",
+      "at": "3:32"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Face close to the camera with an arm raised across the chest toward the neck, black shirt and bookshelf visible.",
+      "at": "5:48"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Head and shoulder occupy the left of the frame at a close, tilted angle; shelves and wall fill the rest.",
+      "at": "7:09"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Face and upper body in black centered in frame, head tilted slightly down, books on the shelf behind.",
+      "at": "9:25"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Head and torso in a black shirt in the middle of the frame, face toward the camera, shelf behind.",
+      "at": "10:20"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face and shoulders fill the center of the frame, gaze lowered, bookshelf and wall behind.",
+      "at": "13:15"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Person in a black shirt seated in a chair, face turned toward the camera, shelf of books at left.",
+      "at": "14:43"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Head and shoulders at the right of the frame with a hand near the mouth, chair back and shelving visible.",
+      "at": "15:41"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Person leaning back in a chair at the right of frame, hand near the face, head clearly visible.",
+      "at": "17:38"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Face at the right of the frame with a forearm and hand raised in front of the mouth, shelves behind.",
+      "at": "19:32"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Head tilted back at a low angle, face and black-shirted shoulders visible in the lower middle of the frame.",
+      "at": "21:55"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Face and shoulders in a black shirt at the right of the frame, chair back beside them, books at left.",
+      "at": "23:51"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Person leaning with head propped on a hand at the right of the frame, face toward the camera.",
+      "at": "24:34"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Face fills the left half of the frame at a close tilted angle, black shirt and shelving visible.",
+      "at": "26:18"
+    }
+  ],
+  "summary": "All 15 frames clearly show the same person in the shot, seated in front of a shelving unit, at varying close angles. No frame was unreadable and none were empty, so attendance is consistent across the whole sampled session."
+}
