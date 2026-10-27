@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-10-27-2139-5kQe7vGSsAE",
+  "verified_at": "2026-10-27T21:55:42+09:00",
+  "daystamp": "2026-10-27",
+  "verified_minutes": 31.7,
+  "presence_minutes": 31.7,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-10-27T21:06",
+  "broadcast_id": "5kQe7vGSsAE",
+  "claim_start": 0,
+  "claim_end": 1903,
+  "frames_outside_claim": 0,
+  "duration": 1903,
+  "title": "20261027-livework",
+  "seed": 1274062826,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    104,
+    277,
+    380,
+    519,
+    640,
+    724,
+    792,
+    998,
+    1034,
+    1235,
+    1333,
+    1475,
+    1593,
+    1671,
+    1804
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Person in a black t-shirt visible from the chest up, face toward camera with a hand raised to the mouth, in front of a bookshelf.",
+      "at": "1:44"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Face fills much of the frame in close-up, eyes open and looking downward, shoulders in black shirt visible.",
+      "at": "4:37"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Close-up of the person's face and upper chest, earbud visible, shelf of books behind.",
+      "at": "6:20"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Head and shoulders visible against a bookshelf and chair headrest, face turned slightly toward camera.",
+      "at": "8:39"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Person seated in a chair, face and torso in frame with one arm raised toward the face.",
+      "at": "10:40"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Head, shoulders and a raised forearm clearly in frame, seated against a chair back.",
+      "at": "12:04"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face and upper body in frame, head tilted slightly, mouth open as if speaking.",
+      "at": "13:12"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Person visible from the chest up, head leaning back against a chair headrest, eyes open.",
+      "at": "16:38"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Head and shoulders in frame, face toward the camera, bookshelf behind.",
+      "at": "17:14"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Head and a fist raised against the mouth/nose fill the center of the frame; shoulders in black shirt visible.",
+      "at": "20:35"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Face with one hand held over the lower face, upper body in frame, seated in a chair.",
+      "at": "22:13"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Person reclined against the chair headrest, face and shoulders clearly visible with eyes open.",
+      "at": "24:35"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Face and a raised hand covering the mouth in frame, torso in black shirt below.",
+      "at": "26:33"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Head and raised forearm/fist near the face visible, eyes partly lowered, seated upright in a chair.",
+      "at": "27:51"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Person seated to the right of the chair headrest, face visible with a fist held under the nose and arm across the frame.",
+      "at": "30:04"
+    }
+  ],
+  "summary": "All 15 frames show the same person clearly in the shot — head and shoulders, often with a hand raised to the face, seated in a chair in front of a bookshelf. No frame was unreadable and none was empty, so attendance holds across the whole sampled session."
+}
