@@ -1,0 +1,13 @@
+{
+  "session_id": "2026-11-10-2144-7lgYW9hgKAM",
+  "broadcast_id": "7lgYW9hgKAM",
+  "url": "https://www.youtube.com/watch?v=7lgYW9hgKAM",
+  "declared": "영어 공부·콘텐츠 제작",
+  "seed": 1931653037,
+  "frames": 15,
+  "threshold": 0.7,
+  "model": "gpt-5.4-mini",
+  "code_fingerprint": "ae3cecdf3eea5b2a",
+  "started_at": "2026-11-10T21:44:45+09:00",
+  "window": null
+}
