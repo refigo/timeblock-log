@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-11-10-2144-7lgYW9hgKAM",
+  "verified_at": "2026-11-10T21:52:28+09:00",
+  "daystamp": "2026-11-10",
+  "verified_minutes": 22.0,
+  "presence_minutes": 22.0,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-11-10T19:42",
+  "broadcast_id": "7lgYW9hgKAM",
+  "claim_start": 0,
+  "claim_end": 1320,
+  "frames_outside_claim": 0,
+  "duration": 1320,
+  "title": "20261110-livework",
+  "seed": 1931653037,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    60,
+    163,
+    257,
+    329,
+    441,
+    459,
+    602,
+    683,
+    731,
+    829,
+    914,
+    962,
+    1100,
+    1153,
+    1251
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Man in a navy sweater, face and shoulders centered, seated against a curved lit wall and padded bench.",
+      "at": "1:00"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same man's head and torso fill the center of the frame, facing the camera.",
+      "at": "2:43"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Face, neck and both sweatered arms visible in front of the curved wall.",
+      "at": "4:17"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Head and upper body clearly in shot, eyes toward camera.",
+      "at": "5:29"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Man's face and shoulders in frame, seated against the illuminated curved wall.",
+      "at": "7:21"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Face and torso plainly visible, arms raised slightly at the bottom edge.",
+      "at": "7:39"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Man's head tilted slightly, face and sweatered arms occupying the lower center of the frame.",
+      "at": "10:02"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Face and crossed arms in the lower half of the frame, bench and curved wall behind.",
+      "at": "11:23"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Head, shoulders and one hand resting at the bottom edge are visible.",
+      "at": "12:11"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Man seated closer to the camera, head and whole upper body in frame.",
+      "at": "13:49"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Face slightly turned, head and sweatered torso fill the center of the shot.",
+      "at": "15:14"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Man's face and upper body clearly visible against the padded bench.",
+      "at": "16:02"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Head and shoulders in frame, face toward the camera, arms at the bottom edge.",
+      "at": "18:20"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Face and torso centered, seated in front of the curved wall and bench.",
+      "at": "19:13"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Man's face and shoulders visible, seated further back against the lit wall.",
+      "at": "20:51"
+    }
+  ],
+  "summary": "All 15 frames show the same man seated in front of a curved illuminated wall and padded bench, his face and upper body clearly in shot throughout. No absent or unreadable frames."
+}
