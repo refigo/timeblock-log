@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-11-16-0106-q9s0kxWoD6o",
+  "verified_at": "2026-11-16T01:33:45+09:00",
+  "daystamp": "2026-11-16",
+  "verified_minutes": 20.6,
+  "presence_minutes": 20.6,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-11-16T01:05",
+  "broadcast_id": "q9s0kxWoD6o",
+  "claim_start": 0,
+  "claim_end": 1233,
+  "frames_outside_claim": 0,
+  "duration": 1233,
+  "title": "20261115-livework",
+  "seed": 3449882323,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    101,
+    163,
+    265,
+    288,
+    369,
+    443,
+    556,
+    580,
+    710,
+    738,
+    881,
+    888,
+    1025,
+    1118,
+    1179
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person's face and torso fill the center of the frame, one hand raised holding a tall glass near the mouth, bookshelf behind.",
+      "at": "1:41"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Face, shoulders and grey shirt clearly visible, seated against a chair back with shelves behind.",
+      "at": "2:43"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Head in profile and a shoulder in a grey shirt fill the right of the frame, slightly motion-blurred but plainly a person.",
+      "at": "4:25"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face and upper body visible in the center of the frame, head tilted slightly down.",
+      "at": "4:48"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Face looking toward the camera, shoulders and grey shirt visible, seated in a chair.",
+      "at": "6:09"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Face, torso and a raised forearm and hand near the mouth are all visible.",
+      "at": "7:23"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Face and shoulders visible with an arm raised toward the side of the head.",
+      "at": "9:16"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Person seated with head resting against a propped-up fist, face and torso clearly in frame.",
+      "at": "9:40"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Face and shoulders fill the center-left of the frame, arms visible at the bottom edge.",
+      "at": "11:50"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Head and shoulders at the right of the frame with a hand held up near the chin.",
+      "at": "12:18"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Face and torso visible on the right with a raised fist near the nose.",
+      "at": "14:41"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Face and shoulders visible, head leaning against a hand at the right edge.",
+      "at": "14:48"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Face in the upper center with a hand raised in front of the mouth, shoulders and shirt below.",
+      "at": "17:05"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Face and a forearm crossing the lower frame, hand near the chin, shelves behind.",
+      "at": "18:38"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Face looking down toward the camera, shoulders and grey shirt filling the lower frame.",
+      "at": "19:39"
+    }
+  ],
+  "summary": "All 15 frames show the same person seated in front of a shelf-lined wall, face and upper body visible throughout. No gaps, no unreadable frames — continuous attendance across the sampled session."
+}
