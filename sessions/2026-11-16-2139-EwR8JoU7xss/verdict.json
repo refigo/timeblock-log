@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-11-16-2139-EwR8JoU7xss",
+  "verified_at": "2026-11-16T22:06:51+09:00",
+  "daystamp": "2026-11-16",
+  "verified_minutes": 37.0,
+  "presence_minutes": 37.0,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-11-16T21:01",
+  "broadcast_id": "EwR8JoU7xss",
+  "claim_start": 0,
+  "claim_end": 2221,
+  "frames_outside_claim": 0,
+  "duration": 2221,
+  "title": "20261116-livework",
+  "seed": 4207351906,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    159,
+    286,
+    353,
+    488,
+    749,
+    816,
+    974,
+    1062,
+    1190,
+    1432,
+    1565,
+    1654,
+    1784,
+    1990,
+    2054
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Man's face fills the frame, eyes lowered, hand and forearm raised near his mouth; bookshelf and wall-mounted air conditioner behind him.",
+      "at": "2:39"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Face clearly visible with eyes open, forearm and hand resting across the lower frame; striped shirt and bookshelf behind.",
+      "at": "4:46"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Head and shoulders in frame, eyes open and looking down, hand propped under the chin.",
+      "at": "5:53"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Full face visible, upright, hand near mouth; chair back and bookshelf behind him.",
+      "at": "8:08"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Face slightly tilted, eyes open, forearm across the lower part of the frame.",
+      "at": "12:29"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Man leaning in from the right, earbud visible, fist raised under his chin, eyes open.",
+      "at": "13:36"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Head and shoulders in the left half of the frame, face lit and eyes open, striped shirt visible.",
+      "at": "16:14"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Face centered toward the right, eyes open and looking downward; shelving and air conditioner behind.",
+      "at": "17:42"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Head and upper torso clearly in frame, eyes open, gaze directed down.",
+      "at": "19:50"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Face and shoulders visible, upright with eyes open, shelf of books behind.",
+      "at": "23:52"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Man leaning sideways with head tilted, hand up by his neck, eyes open; chair headrest beside him.",
+      "at": "26:05"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Face centered and clearly visible, eyes open, shoulders in the lower frame.",
+      "at": "27:34"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Head and shoulders in frame, face lit and eyes open, looking slightly down.",
+      "at": "29:44"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Slightly soft focus but a face is plainly visible with a hand and forearm raised across the chin.",
+      "at": "33:10"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Face clearly visible in the center, eyes open, shoulders and striped shirt in the lower frame.",
+      "at": "34:14"
+    }
+  ],
+  "summary": "All 15 frames show the same person seated in front of a bookshelf and wall air conditioner, head and shoulders in shot throughout. No absent or unreadable frames; attendance is continuous across the sampled session."
+}
