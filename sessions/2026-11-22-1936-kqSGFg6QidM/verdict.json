@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-11-22-1936-kqSGFg6QidM",
+  "verified_at": "2026-11-22T19:43:40+09:00",
+  "daystamp": "2026-11-22",
+  "verified_minutes": 46.3,
+  "presence_minutes": 46.3,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-11-22T18:49",
+  "broadcast_id": "kqSGFg6QidM",
+  "claim_start": 0,
+  "claim_end": 2777,
+  "frames_outside_claim": 0,
+  "duration": 2777,
+  "title": "20261122-livework",
+  "seed": 1598609999,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    193,
+    279,
+    474,
+    654,
+    826,
+    1102,
+    1245,
+    1341,
+    1541,
+    1810,
+    1886,
+    2140,
+    2199,
+    2450,
+    2641
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "Person in a dark cap and light shirt fills the frame, face toward the camera, brick wall and cafe signage behind.",
+      "at": "3:13"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Same capped person centered, eyes lowered, shoulders and collared shirt visible.",
+      "at": "4:39"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Face under the cap clearly visible in the lower-right of the frame, wooden panel and brick wall at left.",
+      "at": "7:54"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Head and raised hand near the face visible, forearm crossing the lower frame.",
+      "at": "10:54"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Capped head with a hand held up at the chin, shirt sleeve and forearm in view.",
+      "at": "13:46"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Face and shoulders visible, gaze angled down, light shirt against the brick and signage backdrop.",
+      "at": "18:22"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Person seated with head and torso in frame, face toward the lens.",
+      "at": "20:45"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Person leaning back against the wall with a hand near the face, upper body visible.",
+      "at": "22:21"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Person visible drinking from a clear cup, hand, arm and shirt in frame.",
+      "at": "25:41"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Head, cap and shoulders fill most of the frame, face angled slightly down.",
+      "at": "30:10"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Full head and torso in frame, person facing the camera.",
+      "at": "31:26"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Person seated upright, face and buttoned shirt clearly visible.",
+      "at": "35:40"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Head and upper body in frame, eyes toward the camera.",
+      "at": "36:39"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "Close view of the capped face and shoulders, slightly turned downward.",
+      "at": "40:50"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Person's face and shirt collar fill the center of the frame.",
+      "at": "44:01"
+    }
+  ],
+  "summary": "All 15 frames show the same capped person in a cafe seat, face or upper body clearly visible throughout — continuous presence across the session with no readable gap."
+}
