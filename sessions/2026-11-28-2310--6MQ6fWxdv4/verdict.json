@@ -1,0 +1,141 @@
+{
+  "session_id": "2026-11-28-2310--6MQ6fWxdv4",
+  "verified_at": "2026-11-28T23:11:29+09:00",
+  "daystamp": "2026-11-27",
+  "verified_minutes": 27.1,
+  "presence_minutes": 27.1,
+  "window": null,
+  "window_ok": true,
+  "setting": null,
+  "broadcast_started_at": "2026-11-27T22:56",
+  "broadcast_id": "-6MQ6fWxdv4",
+  "claim_start": 0,
+  "claim_end": 1626,
+  "frames_outside_claim": 0,
+  "duration": 1626,
+  "title": "20261127-livework",
+  "seed": 454601914,
+  "model": "gpt-5.4-mini",
+  "judge_model": "claude-code:claude-opus-5",
+  "code_fingerprint_at_start": "ae3cecdf3eea5b2a",
+  "code_fingerprint_at_verify": "ae3cecdf3eea5b2a",
+  "timestamps": [
+    64,
+    231,
+    323,
+    389,
+    541,
+    634,
+    754,
+    816,
+    947,
+    996,
+    1099,
+    1214,
+    1326,
+    1466,
+    1502
+  ],
+  "counts": {
+    "present": 15,
+    "absent": 0,
+    "ambiguous": 0
+  },
+  "presence_ratio": 1.0,
+  "threshold": 0.7,
+  "tier": "T2",
+  "passed": true,
+  "frames": [
+    {
+      "index": 0,
+      "verdict": "present",
+      "why": "A person in a dark navy t-shirt fills the right of the frame, head and shoulder in profile, with a bookshelf behind them.",
+      "at": "1:04"
+    },
+    {
+      "index": 1,
+      "verdict": "present",
+      "why": "Head, shoulder and a raised hand holding chopsticks are visible at the right edge of the frame.",
+      "at": "3:51"
+    },
+    {
+      "index": 2,
+      "verdict": "present",
+      "why": "Side of a head, navy-shirted shoulder and a hand with chopsticks occupy the right side of the frame.",
+      "at": "5:23"
+    },
+    {
+      "index": 3,
+      "verdict": "present",
+      "why": "Face in profile, shoulder and a hand holding chopsticks are clearly in the shot.",
+      "at": "6:29"
+    },
+    {
+      "index": 4,
+      "verdict": "present",
+      "why": "Head tilted down, shoulder and forearm visible on the right side of the frame.",
+      "at": "9:01"
+    },
+    {
+      "index": 5,
+      "verdict": "present",
+      "why": "Head and a raised arm across the lower right of the frame, in front of the shelving.",
+      "at": "10:34"
+    },
+    {
+      "index": 6,
+      "verdict": "present",
+      "why": "Full head in profile and navy-shirted torso visible on the right, with a hand holding chopsticks at the bottom edge.",
+      "at": "12:34"
+    },
+    {
+      "index": 7,
+      "verdict": "present",
+      "why": "Back and side of a head, neck, shoulder and a hand are in the right half of the frame.",
+      "at": "13:36"
+    },
+    {
+      "index": 8,
+      "verdict": "present",
+      "why": "Head bowed with a raised arm and hand holding chopsticks, torso in navy shirt plainly in frame.",
+      "at": "15:47"
+    },
+    {
+      "index": 9,
+      "verdict": "present",
+      "why": "Face in three-quarter view, shoulder and a hand near the mouth fill the right of the frame.",
+      "at": "16:36"
+    },
+    {
+      "index": 10,
+      "verdict": "present",
+      "why": "Top of a dark-haired head and a navy-shirted shoulder are visible at the right edge, partly cropped.",
+      "at": "18:19"
+    },
+    {
+      "index": 11,
+      "verdict": "present",
+      "why": "Back of a head, ear, shoulder and a raised hand holding something small are in the right of the frame.",
+      "at": "20:14"
+    },
+    {
+      "index": 12,
+      "verdict": "present",
+      "why": "Head and torso in navy shirt on the right, with a hand visible at the bottom edge.",
+      "at": "22:06"
+    },
+    {
+      "index": 13,
+      "verdict": "present",
+      "why": "A bare arm raised across the face and a dark-haired head occupy the right side of the frame.",
+      "at": "24:26"
+    },
+    {
+      "index": 14,
+      "verdict": "present",
+      "why": "Head in near-profile and navy-shirted shoulder clearly occupy the right of the frame.",
+      "at": "25:02"
+    }
+  ],
+  "summary": "All 15 frames show the same person at the right of a consistent indoor shot (shelving, books, wall unit behind). Head, shoulder, arms or hands are visible in every frame, with no gaps and nothing unreadable. Attendance is continuous across the sampled session."
+}
